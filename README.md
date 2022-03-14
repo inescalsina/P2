@@ -116,11 +116,11 @@ Ejercicios
 
 	* Duración mínima razonable de los segmentos de voz y silencio.
 	
-	--> Hemos cogido la duración en muestras del segmento de voz/silencio más pequeño y lo hemos pasado a segundos con la frecuencia de muestreo.
+	  Hemos cogido la duración en muestras del segmento de voz/silencio más pequeño y lo hemos pasado a segundos con la frecuencia de muestreo.
 	
-	    Duración mínima de voz: 175 ms
+	  Duración mínima de voz: 175 ms
 	    
-	    Duración mínima de silencio: 23 ms
+	  Duración mínima de silencio: 23 ms
 	    
 	* ¿Es capaz de sacar alguna conclusión a partir de la evolución de la tasa de cruces por cero?
 	
