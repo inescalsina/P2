@@ -131,6 +131,8 @@ Ejercicios
 
 - Complete el código de los ficheros de la práctica para implementar un detector de actividad vocal tan
   exacto como sea posible. Tome como objetivo la maximización de la puntuación-F `TOTAL`.
+  
+  En primer lugar queremos encontrar el nivel de potencia umbral que nos ayude a distinguir entre silencio y voz: para ello, le sumamos a el nivel de potencia de silencio inicial un valor 5 que nos servirá de margen un cierto margen.
 
 - Inserte una gráfica en la que se vea con claridad la señal temporal, el etiquetado manual y la detección
   automática conseguida para el fichero grabado al efecto. 
