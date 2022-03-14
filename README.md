@@ -139,8 +139,9 @@ Ejercicios
 
   <img width="957" alt="image" src="https://user-images.githubusercontent.com/101046951/158178592-63a3d324-865d-4f48-9d0e-9154e29fe378.png">
 
-
 - Explique, si existen. las discrepancias entre el etiquetado manual y la detección automática.
+
+  Podemos observar ciertas diferencias entre ambos etiquetados. En la detección automática, los sonidos sordos pueden ser confundidos por silencios, por eso se puede ver como hay tramos muy breves en los que se detecta silencio en medio de un tramo de voz. En tramos de silencio, también detecta voz cuando en realidad no hay. Aún así, acierta bastante. 
 
 - Evalúe los resultados sobre la base de datos `db.v4` con el script `vad_evaluation.pl` e inserte a 
   continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo
