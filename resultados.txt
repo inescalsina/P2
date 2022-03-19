@@ -1,1007 +1,1007 @@
-0	Potencia (dB): -46.514427	Amplitud: 0.003651	ZCR: 0.088050
-1	Potencia (dB): -45.233746	Amplitud: 0.004646	ZCR: 0.056604
-2	Potencia (dB): -47.810760	Amplitud: 0.003179	ZCR: 0.081761
-3	Potencia (dB): -46.053436	Amplitud: 0.004050	ZCR: 0.078616
-4	Potencia (dB): -47.067066	Amplitud: 0.003492	ZCR: 0.072327
-5	Potencia (dB): -49.094265	Amplitud: 0.002679	ZCR: 0.128931
-6	Potencia (dB): -48.101437	Amplitud: 0.003136	ZCR: 0.078616
-7	Potencia (dB): -47.709148	Amplitud: 0.003463	ZCR: 0.072327
-8	Potencia (dB): -51.318462	Amplitud: 0.002165	ZCR: 0.141509
-9	Potencia (dB): -49.156666	Amplitud: 0.002794	ZCR: 0.081761
-10	Potencia (dB): -46.150890	Amplitud: 0.004173	ZCR: 0.075472
-11	Potencia (dB): -50.068806	Amplitud: 0.002648	ZCR: 0.084906
-12	Potencia (dB): -49.512100	Amplitud: 0.002661	ZCR: 0.097484
-13	Potencia (dB): -49.997147	Amplitud: 0.002570	ZCR: 0.084906
-14	Potencia (dB): -47.909943	Amplitud: 0.003357	ZCR: 0.040881
-15	Potencia (dB): -46.627846	Amplitud: 0.003882	ZCR: 0.037736
-16	Potencia (dB): -46.402233	Amplitud: 0.003967	ZCR: 0.050314
-17	Potencia (dB): -47.005337	Amplitud: 0.003642	ZCR: 0.100629
-18	Potencia (dB): -45.935322	Amplitud: 0.004367	ZCR: 0.047170
-19	Potencia (dB): -47.818386	Amplitud: 0.003178	ZCR: 0.094340
-20	Potencia (dB): -47.282814	Amplitud: 0.003625	ZCR: 0.056604
-21	Potencia (dB): -42.861771	Amplitud: 0.006394	ZCR: 0.012579
-22	Potencia (dB): -43.373974	Amplitud: 0.005670	ZCR: 0.050314
-23	Potencia (dB): -43.460644	Amplitud: 0.005737	ZCR: 0.031447
-24	Potencia (dB): -35.745934	Amplitud: 0.012823	ZCR: 0.028302
-25	Potencia (dB): -35.977509	Amplitud: 0.014124	ZCR: 0.009434
-26	Potencia (dB): -34.263939	Amplitud: 0.016389	ZCR: 0.003145
-27	Potencia (dB): -36.968910	Amplitud: 0.013269	ZCR: 0.009434
-28	Potencia (dB): -36.430618	Amplitud: 0.013482	ZCR: 0.000000
-29	Potencia (dB): -36.236629	Amplitud: 0.012477	ZCR: 0.031447
-30	Potencia (dB): -38.538921	Amplitud: 0.010019	ZCR: 0.012579
-31	Potencia (dB): -30.577526	Amplitud: 0.026309	ZCR: 0.003145
-32	Potencia (dB): -35.918705	Amplitud: 0.012566	ZCR: 0.022013
-33	Potencia (dB): -35.814781	Amplitud: 0.013378	ZCR: 0.028302
-34	Potencia (dB): -34.880283	Amplitud: 0.016028	ZCR: 0.006289
-35	Potencia (dB): -35.250622	Amplitud: 0.013848	ZCR: 0.003145
-36	Potencia (dB): -32.496132	Amplitud: 0.019284	ZCR: 0.006289
-37	Potencia (dB): -37.322849	Amplitud: 0.011316	ZCR: 0.025157
-38	Potencia (dB): -35.012974	Amplitud: 0.014698	ZCR: 0.018868
-39	Potencia (dB): -39.569069	Amplitud: 0.009410	ZCR: 0.000000
-40	Potencia (dB): -38.184998	Amplitud: 0.010517	ZCR: 0.018868
-41	Potencia (dB): -38.056664	Amplitud: 0.011297	ZCR: 0.009434
-42	Potencia (dB): -39.784241	Amplitud: 0.009029	ZCR: 0.034591
-43	Potencia (dB): -40.030380	Amplitud: 0.008025	ZCR: 0.034591
-44	Potencia (dB): -41.480854	Amplitud: 0.007021	ZCR: 0.025157
-45	Potencia (dB): -37.154964	Amplitud: 0.012262	ZCR: 0.018868
-46	Potencia (dB): -33.921696	Amplitud: 0.017029	ZCR: 0.028302
-47	Potencia (dB): -43.116390	Amplitud: 0.005529	ZCR: 0.050314
-48	Potencia (dB): -38.424305	Amplitud: 0.010455	ZCR: 0.009434
-49	Potencia (dB): -39.431801	Amplitud: 0.008429	ZCR: 0.037736
-50	Potencia (dB): -43.821312	Amplitud: 0.005356	ZCR: 0.028302
-51	Potencia (dB): -36.760044	Amplitud: 0.012034	ZCR: 0.022013
-52	Potencia (dB): -38.844887	Amplitud: 0.010251	ZCR: 0.015723
-53	Potencia (dB): -33.375687	Amplitud: 0.019316	ZCR: 0.009434
-54	Potencia (dB): -38.758057	Amplitud: 0.010072	ZCR: 0.015723
-55	Potencia (dB): -40.877731	Amplitud: 0.007349	ZCR: 0.044025
-56	Potencia (dB): -44.218407	Amplitud: 0.005063	ZCR: 0.053459
-57	Potencia (dB): -38.064705	Amplitud: 0.010553	ZCR: 0.040881
-58	Potencia (dB): -39.114910	Amplitud: 0.009812	ZCR: 0.009434
-59	Potencia (dB): -42.312042	Amplitud: 0.006199	ZCR: 0.056604
-60	Potencia (dB): -42.765293	Amplitud: 0.005811	ZCR: 0.022013
-61	Potencia (dB): -39.527451	Amplitud: 0.007173	ZCR: 0.097484
-62	Potencia (dB): -44.742130	Amplitud: 0.004864	ZCR: 0.022013
-63	Potencia (dB): -42.505520	Amplitud: 0.006264	ZCR: 0.044025
-64	Potencia (dB): -40.338993	Amplitud: 0.008355	ZCR: 0.034591
-65	Potencia (dB): -40.701187	Amplitud: 0.007926	ZCR: 0.018868
-66	Potencia (dB): -44.400352	Amplitud: 0.005046	ZCR: 0.059748
-67	Potencia (dB): -40.500343	Amplitud: 0.007842	ZCR: 0.037736
-68	Potencia (dB): -39.842136	Amplitud: 0.008145	ZCR: 0.044025
-69	Potencia (dB): -41.884033	Amplitud: 0.007329	ZCR: 0.018868
-70	Potencia (dB): -37.241661	Amplitud: 0.011726	ZCR: 0.006289
-71	Potencia (dB): -45.804005	Amplitud: 0.004226	ZCR: 0.069182
-72	Potencia (dB): -43.957924	Amplitud: 0.005285	ZCR: 0.059748
-73	Potencia (dB): -43.027859	Amplitud: 0.005874	ZCR: 0.025157
-74	Potencia (dB): -49.671432	Amplitud: 0.002618	ZCR: 0.097484
-75	Potencia (dB): -45.132519	Amplitud: 0.004262	ZCR: 0.062893
-76	Potencia (dB): -46.847622	Amplitud: 0.003677	ZCR: 0.081761
-77	Potencia (dB): -49.244083	Amplitud: 0.002834	ZCR: 0.091195
-78	Potencia (dB): -47.552940	Amplitud: 0.003267	ZCR: 0.125786
-79	Potencia (dB): -47.882145	Amplitud: 0.003300	ZCR: 0.106918
-80	Potencia (dB): -47.081879	Amplitud: 0.003788	ZCR: 0.081761
-81	Potencia (dB): -49.056061	Amplitud: 0.002816	ZCR: 0.097484
-82	Potencia (dB): -47.130997	Amplitud: 0.003581	ZCR: 0.069182
-83	Potencia (dB): -45.875111	Amplitud: 0.004144	ZCR: 0.069182
-84	Potencia (dB): -42.363056	Amplitud: 0.006224	ZCR: 0.081761
-85	Potencia (dB): -41.888489	Amplitud: 0.006515	ZCR: 0.084906
-86	Potencia (dB): -43.439407	Amplitud: 0.005951	ZCR: 0.034591
-87	Potencia (dB): -47.096207	Amplitud: 0.003487	ZCR: 0.100629
-88	Potencia (dB): -45.981937	Amplitud: 0.004260	ZCR: 0.050314
-89	Potencia (dB): -48.051903	Amplitud: 0.003124	ZCR: 0.125786
-90	Potencia (dB): -44.234013	Amplitud: 0.005110	ZCR: 0.072327
-91	Potencia (dB): -35.075275	Amplitud: 0.007867	ZCR: 0.150943
-92	Potencia (dB): -47.758034	Amplitud: 0.003466	ZCR: 0.075472
-93	Potencia (dB): -48.646915	Amplitud: 0.002969	ZCR: 0.119497
-94	Potencia (dB): -48.865158	Amplitud: 0.002706	ZCR: 0.122642
-95	Potencia (dB): -47.073292	Amplitud: 0.003694	ZCR: 0.094340
-96	Potencia (dB): -45.899117	Amplitud: 0.004242	ZCR: 0.081761
-97	Potencia (dB): -46.031757	Amplitud: 0.003888	ZCR: 0.106918
-98	Potencia (dB): -46.678886	Amplitud: 0.003769	ZCR: 0.084906
-99	Potencia (dB): -44.805916	Amplitud: 0.004530	ZCR: 0.084906
-100	Potencia (dB): -45.969112	Amplitud: 0.004218	ZCR: 0.050314
-101	Potencia (dB): -47.775234	Amplitud: 0.003385	ZCR: 0.103774
-102	Potencia (dB): -46.573071	Amplitud: 0.003802	ZCR: 0.094340
-103	Potencia (dB): -36.147812	Amplitud: 0.011732	ZCR: 0.069182
-104	Potencia (dB): -37.886627	Amplitud: 0.008650	ZCR: 0.119497
-105	Potencia (dB): -43.482082	Amplitud: 0.005162	ZCR: 0.135220
-106	Potencia (dB): -43.444717	Amplitud: 0.005355	ZCR: 0.084906
-107	Potencia (dB): -40.241344	Amplitud: 0.007113	ZCR: 0.062893
-108	Potencia (dB): -44.015175	Amplitud: 0.005075	ZCR: 0.100629
-109	Potencia (dB): -44.918835	Amplitud: 0.004581	ZCR: 0.081761
-110	Potencia (dB): -44.349449	Amplitud: 0.004670	ZCR: 0.106918
-111	Potencia (dB): -45.855083	Amplitud: 0.004161	ZCR: 0.110063
-112	Potencia (dB): -45.615261	Amplitud: 0.004262	ZCR: 0.103774
-113	Potencia (dB): -47.069935	Amplitud: 0.003789	ZCR: 0.072327
-114	Potencia (dB): -46.258041	Amplitud: 0.003905	ZCR: 0.081761
-115	Potencia (dB): -45.575558	Amplitud: 0.004177	ZCR: 0.075472
-116	Potencia (dB): -46.403393	Amplitud: 0.003799	ZCR: 0.094340
-117	Potencia (dB): -43.693695	Amplitud: 0.004849	ZCR: 0.088050
-118	Potencia (dB): -44.077690	Amplitud: 0.005356	ZCR: 0.047170
-119	Potencia (dB): -45.755951	Amplitud: 0.004179	ZCR: 0.062893
-120	Potencia (dB): -45.142670	Amplitud: 0.004486	ZCR: 0.066038
-121	Potencia (dB): -45.883606	Amplitud: 0.004188	ZCR: 0.034591
-122	Potencia (dB): -46.234531	Amplitud: 0.003759	ZCR: 0.056604
-123	Potencia (dB): -45.081512	Amplitud: 0.004353	ZCR: 0.059748
-124	Potencia (dB): -45.127934	Amplitud: 0.004527	ZCR: 0.088050
-125	Potencia (dB): -45.360104	Amplitud: 0.004498	ZCR: 0.069182
-126	Potencia (dB): -46.340866	Amplitud: 0.003958	ZCR: 0.069182
-127	Potencia (dB): -45.142475	Amplitud: 0.004171	ZCR: 0.066038
-128	Potencia (dB): -43.950233	Amplitud: 0.004994	ZCR: 0.084906
-129	Potencia (dB): -49.285225	Amplitud: 0.002855	ZCR: 0.097484
-130	Potencia (dB): -48.741642	Amplitud: 0.002961	ZCR: 0.081761
-131	Potencia (dB): -43.978546	Amplitud: 0.005372	ZCR: 0.069182
-132	Potencia (dB): -45.715961	Amplitud: 0.004282	ZCR: 0.059748
-133	Potencia (dB): -47.042694	Amplitud: 0.003594	ZCR: 0.091195
-134	Potencia (dB): -47.213787	Amplitud: 0.003459	ZCR: 0.062893
-135	Potencia (dB): -47.686649	Amplitud: 0.003395	ZCR: 0.075472
-136	Potencia (dB): -51.255600	Amplitud: 0.002248	ZCR: 0.119497
-137	Potencia (dB): -47.608681	Amplitud: 0.003380	ZCR: 0.088050
-138	Potencia (dB): -48.318600	Amplitud: 0.003007	ZCR: 0.081761
-139	Potencia (dB): -44.918503	Amplitud: 0.004709	ZCR: 0.050314
-140	Potencia (dB): -43.582302	Amplitud: 0.004968	ZCR: 0.050314
-141	Potencia (dB): -43.109169	Amplitud: 0.005733	ZCR: 0.050314
-142	Potencia (dB): -36.325665	Amplitud: 0.012618	ZCR: 0.031447
-143	Potencia (dB): -24.173086	Amplitud: 0.049385	ZCR: 0.006289
-144	Potencia (dB): -20.439077	Amplitud: 0.079925	ZCR: 0.025157
-145	Potencia (dB): -18.413565	Amplitud: 0.106980	ZCR: 0.006289
-146	Potencia (dB): -16.370516	Amplitud: 0.135699	ZCR: 0.006289
-147	Potencia (dB): -16.736025	Amplitud: 0.128040	ZCR: 0.006289
-148	Potencia (dB): -16.814356	Amplitud: 0.112842	ZCR: 0.018868
-149	Potencia (dB): -16.603899	Amplitud: 0.122651	ZCR: 0.018868
-150	Potencia (dB): -20.875465	Amplitud: 0.073346	ZCR: 0.072327
-151	Potencia (dB): -16.679041	Amplitud: 0.116613	ZCR: 0.084906
-152	Potencia (dB): -18.208275	Amplitud: 0.100473	ZCR: 0.154088
-153	Potencia (dB): -23.218693	Amplitud: 0.053547	ZCR: 0.235849
-154	Potencia (dB): -25.058113	Amplitud: 0.047717	ZCR: 0.025157
-155	Potencia (dB): -34.796185	Amplitud: 0.015952	ZCR: 0.015723
-156	Potencia (dB): -34.179661	Amplitud: 0.019233	ZCR: 0.000000
-157	Potencia (dB): -43.115826	Amplitud: 0.005710	ZCR: 0.044025
-158	Potencia (dB): -49.954163	Amplitud: 0.002524	ZCR: 0.069182
-159	Potencia (dB): -44.241329	Amplitud: 0.004907	ZCR: 0.069182
-160	Potencia (dB): -24.461006	Amplitud: 0.037793	ZCR: 0.044025
-161	Potencia (dB): -19.667582	Amplitud: 0.068471	ZCR: 0.066038
-162	Potencia (dB): -18.331692	Amplitud: 0.085419	ZCR: 0.018868
-163	Potencia (dB): -12.619734	Amplitud: 0.179684	ZCR: 0.022013
-164	Potencia (dB): -10.924523	Amplitud: 0.224478	ZCR: 0.015723
-165	Potencia (dB): -10.850253	Amplitud: 0.214689	ZCR: 0.022013
-166	Potencia (dB): -12.178269	Amplitud: 0.174567	ZCR: 0.018868
-167	Potencia (dB): -15.360894	Amplitud: 0.131157	ZCR: 0.018868
-168	Potencia (dB): -15.390244	Amplitud: 0.139638	ZCR: 0.015723
-169	Potencia (dB): -15.461215	Amplitud: 0.142212	ZCR: 0.012579
-170	Potencia (dB): -16.147617	Amplitud: 0.130787	ZCR: 0.012579
-171	Potencia (dB): -16.624887	Amplitud: 0.123793	ZCR: 0.012579
-172	Potencia (dB): -15.520645	Amplitud: 0.138528	ZCR: 0.012579
-173	Potencia (dB): -15.706913	Amplitud: 0.131390	ZCR: 0.018868
-174	Potencia (dB): -15.080947	Amplitud: 0.144812	ZCR: 0.006289
-175	Potencia (dB): -15.616423	Amplitud: 0.139464	ZCR: 0.006289
-176	Potencia (dB): -16.073536	Amplitud: 0.132375	ZCR: 0.018868
-177	Potencia (dB): -16.248089	Amplitud: 0.130498	ZCR: 0.009434
-178	Potencia (dB): -18.313086	Amplitud: 0.102746	ZCR: 0.012579
-179	Potencia (dB): -21.083529	Amplitud: 0.069933	ZCR: 0.025157
-180	Potencia (dB): -16.901880	Amplitud: 0.123739	ZCR: 0.006289
-181	Potencia (dB): -16.323668	Amplitud: 0.126179	ZCR: 0.025157
-182	Potencia (dB): -29.765675	Amplitud: 0.026547	ZCR: 0.100629
-183	Potencia (dB): -24.013165	Amplitud: 0.055200	ZCR: 0.028302
-184	Potencia (dB): -24.710926	Amplitud: 0.049827	ZCR: 0.025157
-185	Potencia (dB): -23.014671	Amplitud: 0.060627	ZCR: 0.012579
-186	Potencia (dB): -18.134941	Amplitud: 0.105683	ZCR: 0.012579
-187	Potencia (dB): -16.186039	Amplitud: 0.130340	ZCR: 0.009434
-188	Potencia (dB): -15.505568	Amplitud: 0.141263	ZCR: 0.006289
-189	Potencia (dB): -15.387965	Amplitud: 0.140442	ZCR: 0.012579
-190	Potencia (dB): -14.858138	Amplitud: 0.143154	ZCR: 0.015723
-191	Potencia (dB): -14.430637	Amplitud: 0.156703	ZCR: 0.012579
-192	Potencia (dB): -15.103142	Amplitud: 0.141028	ZCR: 0.015723
-193	Potencia (dB): -16.442604	Amplitud: 0.113701	ZCR: 0.018868
-194	Potencia (dB): -16.126301	Amplitud: 0.118092	ZCR: 0.025157
-195	Potencia (dB): -16.117952	Amplitud: 0.118012	ZCR: 0.022013
-196	Potencia (dB): -14.178178	Amplitud: 0.146938	ZCR: 0.022013
-197	Potencia (dB): -15.610214	Amplitud: 0.125443	ZCR: 0.006289
-198	Potencia (dB): -16.053694	Amplitud: 0.115401	ZCR: 0.018868
-199	Potencia (dB): -15.562781	Amplitud: 0.125827	ZCR: 0.034591
-200	Potencia (dB): -16.221844	Amplitud: 0.121533	ZCR: 0.047170
-201	Potencia (dB): -17.906092	Amplitud: 0.095156	ZCR: 0.047170
-202	Potencia (dB): -18.344509	Amplitud: 0.087590	ZCR: 0.050314
-203	Potencia (dB): -15.871825	Amplitud: 0.127907	ZCR: 0.034591
-204	Potencia (dB): -15.866554	Amplitud: 0.120782	ZCR: 0.031447
-205	Potencia (dB): -14.963674	Amplitud: 0.130328	ZCR: 0.025157
-206	Potencia (dB): -13.067411	Amplitud: 0.173872	ZCR: 0.025157
-207	Potencia (dB): -14.560288	Amplitud: 0.153771	ZCR: 0.022013
-208	Potencia (dB): -15.987949	Amplitud: 0.130558	ZCR: 0.025157
-209	Potencia (dB): -15.664344	Amplitud: 0.138816	ZCR: 0.022013
-210	Potencia (dB): -16.087475	Amplitud: 0.132322	ZCR: 0.022013
-211	Potencia (dB): -15.402349	Amplitud: 0.145124	ZCR: 0.018868
-212	Potencia (dB): -17.674557	Amplitud: 0.110038	ZCR: 0.028302
-213	Potencia (dB): -22.070978	Amplitud: 0.068233	ZCR: 0.012579
-214	Potencia (dB): -30.116148	Amplitud: 0.026182	ZCR: 0.025157
-215	Potencia (dB): -29.733995	Amplitud: 0.027411	ZCR: 0.012579
-216	Potencia (dB): -36.268509	Amplitud: 0.012656	ZCR: 0.012579
-217	Potencia (dB): -33.035488	Amplitud: 0.018150	ZCR: 0.018868
-218	Potencia (dB): -38.513287	Amplitud: 0.009755	ZCR: 0.028302
-219	Potencia (dB): -31.850182	Amplitud: 0.017006	ZCR: 0.125786
-220	Potencia (dB): -35.088947	Amplitud: 0.013087	ZCR: 0.157233
-221	Potencia (dB): -22.373222	Amplitud: 0.061728	ZCR: 0.053459
-222	Potencia (dB): -20.986902	Amplitud: 0.078317	ZCR: 0.006289
-223	Potencia (dB): -24.758068	Amplitud: 0.039521	ZCR: 0.037736
-224	Potencia (dB): -20.806986	Amplitud: 0.069369	ZCR: 0.022013
-225	Potencia (dB): -19.758095	Amplitud: 0.089400	ZCR: 0.006289
-226	Potencia (dB): -20.071747	Amplitud: 0.090867	ZCR: 0.006289
-227	Potencia (dB): -21.097900	Amplitud: 0.077847	ZCR: 0.006289
-228	Potencia (dB): -22.244738	Amplitud: 0.069222	ZCR: 0.006289
-229	Potencia (dB): -26.225361	Amplitud: 0.043390	ZCR: 0.006289
-230	Potencia (dB): -27.789040	Amplitud: 0.033772	ZCR: 0.018868
-231	Potencia (dB): -33.076065	Amplitud: 0.018563	ZCR: 0.031447
-232	Potencia (dB): -35.591572	Amplitud: 0.013369	ZCR: 0.044025
-233	Potencia (dB): -35.198380	Amplitud: 0.015649	ZCR: 0.009434
-234	Potencia (dB): -30.001978	Amplitud: 0.021501	ZCR: 0.044025
-235	Potencia (dB): -29.166819	Amplitud: 0.026789	ZCR: 0.210692
-236	Potencia (dB): -31.899921	Amplitud: 0.020559	ZCR: 0.216981
-237	Potencia (dB): -30.471010	Amplitud: 0.023947	ZCR: 0.229560
-238	Potencia (dB): -31.634718	Amplitud: 0.021169	ZCR: 0.194969
-239	Potencia (dB): -36.616291	Amplitud: 0.011809	ZCR: 0.106918
-240	Potencia (dB): -22.426504	Amplitud: 0.062313	ZCR: 0.022013
-241	Potencia (dB): -18.266846	Amplitud: 0.103643	ZCR: 0.012579
-242	Potencia (dB): -20.262630	Amplitud: 0.075542	ZCR: 0.031447
-243	Potencia (dB): -21.182327	Amplitud: 0.071694	ZCR: 0.022013
-244	Potencia (dB): -21.799065	Amplitud: 0.051435	ZCR: 0.062893
-245	Potencia (dB): -21.350014	Amplitud: 0.076481	ZCR: 0.018868
-246	Potencia (dB): -17.851810	Amplitud: 0.094987	ZCR: 0.047170
-247	Potencia (dB): -26.646948	Amplitud: 0.040675	ZCR: 0.037736
-248	Potencia (dB): -30.921635	Amplitud: 0.022713	ZCR: 0.100629
-249	Potencia (dB): -35.253220	Amplitud: 0.014351	ZCR: 0.213836
-250	Potencia (dB): -35.368271	Amplitud: 0.013729	ZCR: 0.172956
-251	Potencia (dB): -32.575031	Amplitud: 0.018595	ZCR: 0.198113
-252	Potencia (dB): -32.090862	Amplitud: 0.020417	ZCR: 0.094340
-253	Potencia (dB): -20.518591	Amplitud: 0.077592	ZCR: 0.015723
-254	Potencia (dB): -22.670650	Amplitud: 0.060233	ZCR: 0.009434
-255	Potencia (dB): -20.356556	Amplitud: 0.084548	ZCR: 0.009434
-256	Potencia (dB): -18.901714	Amplitud: 0.095350	ZCR: 0.012579
-257	Potencia (dB): -16.741282	Amplitud: 0.118007	ZCR: 0.015723
-258	Potencia (dB): -18.341597	Amplitud: 0.099226	ZCR: 0.022013
-259	Potencia (dB): -18.067808	Amplitud: 0.110253	ZCR: 0.009434
-260	Potencia (dB): -18.730255	Amplitud: 0.094780	ZCR: 0.012579
-261	Potencia (dB): -17.677872	Amplitud: 0.108973	ZCR: 0.015723
-262	Potencia (dB): -16.007923	Amplitud: 0.128352	ZCR: 0.015723
-263	Potencia (dB): -19.641079	Amplitud: 0.088384	ZCR: 0.006289
-264	Potencia (dB): -20.167982	Amplitud: 0.074394	ZCR: 0.006289
-265	Potencia (dB): -20.147203	Amplitud: 0.073445	ZCR: 0.022013
-266	Potencia (dB): -18.438709	Amplitud: 0.093699	ZCR: 0.018868
-267	Potencia (dB): -19.463474	Amplitud: 0.084358	ZCR: 0.022013
-268	Potencia (dB): -20.789827	Amplitud: 0.068014	ZCR: 0.018868
-269	Potencia (dB): -20.384897	Amplitud: 0.071166	ZCR: 0.022013
-270	Potencia (dB): -19.015514	Amplitud: 0.085901	ZCR: 0.012579
-271	Potencia (dB): -19.650311	Amplitud: 0.083508	ZCR: 0.009434
-272	Potencia (dB): -20.286377	Amplitud: 0.079769	ZCR: 0.006289
-273	Potencia (dB): -17.070444	Amplitud: 0.114719	ZCR: 0.012579
-274	Potencia (dB): -16.829760	Amplitud: 0.121233	ZCR: 0.012579
-275	Potencia (dB): -16.765129	Amplitud: 0.121558	ZCR: 0.015723
-276	Potencia (dB): -16.898779	Amplitud: 0.119038	ZCR: 0.012579
-277	Potencia (dB): -16.493624	Amplitud: 0.120948	ZCR: 0.012579
-278	Potencia (dB): -17.934061	Amplitud: 0.096615	ZCR: 0.022013
-279	Potencia (dB): -17.733622	Amplitud: 0.099992	ZCR: 0.031447
-280	Potencia (dB): -15.871421	Amplitud: 0.122075	ZCR: 0.015723
-281	Potencia (dB): -18.799061	Amplitud: 0.089844	ZCR: 0.015723
-282	Potencia (dB): -15.711399	Amplitud: 0.140778	ZCR: 0.006289
-283	Potencia (dB): -16.927662	Amplitud: 0.119769	ZCR: 0.006289
-284	Potencia (dB): -15.676652	Amplitud: 0.139331	ZCR: 0.006289
-285	Potencia (dB): -16.294470	Amplitud: 0.125392	ZCR: 0.009434
-286	Potencia (dB): -18.061914	Amplitud: 0.101395	ZCR: 0.006289
-287	Potencia (dB): -20.540071	Amplitud: 0.075999	ZCR: 0.018868
-288	Potencia (dB): -23.058762	Amplitud: 0.055626	ZCR: 0.012579
-289	Potencia (dB): -29.749197	Amplitud: 0.025871	ZCR: 0.006289
-290	Potencia (dB): -24.211836	Amplitud: 0.041664	ZCR: 0.066038
-291	Potencia (dB): -13.469195	Amplitud: 0.153636	ZCR: 0.031447
-292	Potencia (dB): -15.739401	Amplitud: 0.130441	ZCR: 0.006289
-293	Potencia (dB): -18.394249	Amplitud: 0.093997	ZCR: 0.012579
-294	Potencia (dB): -20.310713	Amplitud: 0.071016	ZCR: 0.028302
-295	Potencia (dB): -18.113804	Amplitud: 0.101316	ZCR: 0.012579
-296	Potencia (dB): -16.996376	Amplitud: 0.117848	ZCR: 0.022013
-297	Potencia (dB): -17.202326	Amplitud: 0.110909	ZCR: 0.022013
-298	Potencia (dB): -16.390669	Amplitud: 0.127805	ZCR: 0.012579
-299	Potencia (dB): -16.935375	Amplitud: 0.118353	ZCR: 0.012579
-300	Potencia (dB): -18.138216	Amplitud: 0.102281	ZCR: 0.022013
-301	Potencia (dB): -18.621281	Amplitud: 0.096291	ZCR: 0.018868
-302	Potencia (dB): -19.849731	Amplitud: 0.085273	ZCR: 0.022013
-303	Potencia (dB): -24.237539	Amplitud: 0.048150	ZCR: 0.028302
-304	Potencia (dB): -24.113277	Amplitud: 0.054031	ZCR: 0.018868
-305	Potencia (dB): -23.537958	Amplitud: 0.055798	ZCR: 0.009434
-306	Potencia (dB): -23.838993	Amplitud: 0.049068	ZCR: 0.047170
-307	Potencia (dB): -20.796959	Amplitud: 0.078711	ZCR: 0.012579
-308	Potencia (dB): -18.087378	Amplitud: 0.116712	ZCR: 0.000000
-309	Potencia (dB): -31.835455	Amplitud: 0.022600	ZCR: 0.015723
-310	Potencia (dB): -26.876711	Amplitud: 0.041395	ZCR: 0.006289
-311	Potencia (dB): -25.225515	Amplitud: 0.050505	ZCR: 0.000000
-312	Potencia (dB): -32.311142	Amplitud: 0.020272	ZCR: 0.091195
-313	Potencia (dB): -32.762024	Amplitud: 0.019752	ZCR: 0.031447
-314	Potencia (dB): -36.440868	Amplitud: 0.011743	ZCR: 0.103774
-315	Potencia (dB): -33.849899	Amplitud: 0.016154	ZCR: 0.103774
-316	Potencia (dB): -21.439075	Amplitud: 0.065027	ZCR: 0.034591
-317	Potencia (dB): -14.323977	Amplitud: 0.162733	ZCR: 0.022013
-318	Potencia (dB): -15.052448	Amplitud: 0.149735	ZCR: 0.018868
-319	Potencia (dB): -15.094099	Amplitud: 0.144255	ZCR: 0.025157
-320	Potencia (dB): -14.428218	Amplitud: 0.164043	ZCR: 0.012579
-321	Potencia (dB): -11.505410	Amplitud: 0.221799	ZCR: 0.022013
-322	Potencia (dB): -12.665556	Amplitud: 0.187321	ZCR: 0.037736
-323	Potencia (dB): -14.545357	Amplitud: 0.156179	ZCR: 0.018868
-324	Potencia (dB): -19.246412	Amplitud: 0.079773	ZCR: 0.062893
-325	Potencia (dB): -20.703032	Amplitud: 0.071106	ZCR: 0.028302
-326	Potencia (dB): -16.015371	Amplitud: 0.139678	ZCR: 0.009434
-327	Potencia (dB): -21.187403	Amplitud: 0.072881	ZCR: 0.047170
-328	Potencia (dB): -23.006083	Amplitud: 0.056406	ZCR: 0.100629
-329	Potencia (dB): -22.152601	Amplitud: 0.060846	ZCR: 0.075472
-330	Potencia (dB): -16.261253	Amplitud: 0.131690	ZCR: 0.037736
-331	Potencia (dB): -19.031990	Amplitud: 0.089288	ZCR: 0.154088
-332	Potencia (dB): -23.412321	Amplitud: 0.053558	ZCR: 0.216981
-333	Potencia (dB): -21.204771	Amplitud: 0.071619	ZCR: 0.122642
-334	Potencia (dB): -21.280214	Amplitud: 0.069841	ZCR: 0.135220
-335	Potencia (dB): -25.143120	Amplitud: 0.043862	ZCR: 0.128931
-336	Potencia (dB): -23.438293	Amplitud: 0.054627	ZCR: 0.047170
-337	Potencia (dB): -16.225014	Amplitud: 0.134554	ZCR: 0.009434
-338	Potencia (dB): -14.945628	Amplitud: 0.152307	ZCR: 0.018868
-339	Potencia (dB): -14.568056	Amplitud: 0.155243	ZCR: 0.015723
-340	Potencia (dB): -13.590733	Amplitud: 0.170707	ZCR: 0.018868
-341	Potencia (dB): -16.909151	Amplitud: 0.116660	ZCR: 0.015723
-342	Potencia (dB): -27.026867	Amplitud: 0.035332	ZCR: 0.022013
-343	Potencia (dB): -27.639877	Amplitud: 0.033528	ZCR: 0.006289
-344	Potencia (dB): -28.427980	Amplitud: 0.030896	ZCR: 0.018868
-345	Potencia (dB): -29.905449	Amplitud: 0.026060	ZCR: 0.015723
-346	Potencia (dB): -28.626873	Amplitud: 0.032439	ZCR: 0.006289
-347	Potencia (dB): -25.500248	Amplitud: 0.038994	ZCR: 0.012579
-348	Potencia (dB): -21.186266	Amplitud: 0.072751	ZCR: 0.022013
-349	Potencia (dB): -18.896034	Amplitud: 0.092066	ZCR: 0.015723
-350	Potencia (dB): -18.980211	Amplitud: 0.093812	ZCR: 0.009434
-351	Potencia (dB): -17.942904	Amplitud: 0.109990	ZCR: 0.006289
-352	Potencia (dB): -20.148718	Amplitud: 0.085610	ZCR: 0.006289
-353	Potencia (dB): -22.252689	Amplitud: 0.067248	ZCR: 0.006289
-354	Potencia (dB): -22.408169	Amplitud: 0.066799	ZCR: 0.006289
-355	Potencia (dB): -22.543646	Amplitud: 0.066114	ZCR: 0.006289
-356	Potencia (dB): -21.898258	Amplitud: 0.071316	ZCR: 0.006289
-357	Potencia (dB): -21.949276	Amplitud: 0.067958	ZCR: 0.006289
-358	Potencia (dB): -21.159998	Amplitud: 0.080264	ZCR: 0.006289
-359	Potencia (dB): -21.002441	Amplitud: 0.082006	ZCR: 0.006289
-360	Potencia (dB): -19.011034	Amplitud: 0.102031	ZCR: 0.006289
-361	Potencia (dB): -18.656944	Amplitud: 0.103716	ZCR: 0.006289
-362	Potencia (dB): -18.633648	Amplitud: 0.105328	ZCR: 0.006289
-363	Potencia (dB): -19.632648	Amplitud: 0.091917	ZCR: 0.006289
-364	Potencia (dB): -20.434462	Amplitud: 0.082509	ZCR: 0.015723
-365	Potencia (dB): -20.444187	Amplitud: 0.071786	ZCR: 0.009434
-366	Potencia (dB): -21.329559	Amplitud: 0.073866	ZCR: 0.006289
-367	Potencia (dB): -21.585640	Amplitud: 0.071760	ZCR: 0.006289
-368	Potencia (dB): -20.932508	Amplitud: 0.076435	ZCR: 0.006289
-369	Potencia (dB): -21.144705	Amplitud: 0.072005	ZCR: 0.009434
-370	Potencia (dB): -21.406534	Amplitud: 0.071273	ZCR: 0.003145
-371	Potencia (dB): -20.746630	Amplitud: 0.076918	ZCR: 0.006289
-372	Potencia (dB): -21.908531	Amplitud: 0.066879	ZCR: 0.006289
-373	Potencia (dB): -21.470730	Amplitud: 0.069974	ZCR: 0.006289
-374	Potencia (dB): -18.389566	Amplitud: 0.100426	ZCR: 0.018868
-375	Potencia (dB): -18.148336	Amplitud: 0.106131	ZCR: 0.015723
-376	Potencia (dB): -18.859781	Amplitud: 0.096504	ZCR: 0.006289
-377	Potencia (dB): -18.957941	Amplitud: 0.095181	ZCR: 0.012579
-378	Potencia (dB): -19.794308	Amplitud: 0.088746	ZCR: 0.006289
-379	Potencia (dB): -22.247114	Amplitud: 0.066900	ZCR: 0.006289
-380	Potencia (dB): -23.341404	Amplitud: 0.056635	ZCR: 0.012579
-381	Potencia (dB): -22.856588	Amplitud: 0.060005	ZCR: 0.012579
-382	Potencia (dB): -23.279682	Amplitud: 0.058757	ZCR: 0.006289
-383	Potencia (dB): -23.478607	Amplitud: 0.057964	ZCR: 0.006289
-384	Potencia (dB): -23.584484	Amplitud: 0.056632	ZCR: 0.012579
-385	Potencia (dB): -27.132727	Amplitud: 0.036980	ZCR: 0.012579
-386	Potencia (dB): -31.928583	Amplitud: 0.020581	ZCR: 0.028302
-387	Potencia (dB): -33.677395	Amplitud: 0.017249	ZCR: 0.009434
-388	Potencia (dB): -36.846657	Amplitud: 0.012020	ZCR: 0.015723
-389	Potencia (dB): -40.950279	Amplitud: 0.007702	ZCR: 0.018868
-390	Potencia (dB): -30.091942	Amplitud: 0.022176	ZCR: 0.034591
-391	Potencia (dB): -34.799095	Amplitud: 0.014384	ZCR: 0.028302
-392	Potencia (dB): -29.988167	Amplitud: 0.021305	ZCR: 0.040881
-393	Potencia (dB): -23.771790	Amplitud: 0.048691	ZCR: 0.031447
-394	Potencia (dB): -15.954922	Amplitud: 0.120558	ZCR: 0.022013
-395	Potencia (dB): -14.678334	Amplitud: 0.156459	ZCR: 0.018868
-396	Potencia (dB): -14.809533	Amplitud: 0.155682	ZCR: 0.012579
-397	Potencia (dB): -14.402440	Amplitud: 0.167845	ZCR: 0.022013
-398	Potencia (dB): -15.014571	Amplitud: 0.150799	ZCR: 0.018868
-399	Potencia (dB): -13.949195	Amplitud: 0.170371	ZCR: 0.012579
-400	Potencia (dB): -14.903701	Amplitud: 0.154943	ZCR: 0.015723
-401	Potencia (dB): -18.378523	Amplitud: 0.108811	ZCR: 0.006289
-402	Potencia (dB): -18.533514	Amplitud: 0.093314	ZCR: 0.018868
-403	Potencia (dB): -18.174212	Amplitud: 0.100438	ZCR: 0.012579
-404	Potencia (dB): -17.205338	Amplitud: 0.111920	ZCR: 0.012579
-405	Potencia (dB): -16.851236	Amplitud: 0.116685	ZCR: 0.015723
-406	Potencia (dB): -17.164013	Amplitud: 0.114973	ZCR: 0.012579
-407	Potencia (dB): -18.211456	Amplitud: 0.095187	ZCR: 0.018868
-408	Potencia (dB): -17.963762	Amplitud: 0.105884	ZCR: 0.012579
-409	Potencia (dB): -18.026693	Amplitud: 0.103446	ZCR: 0.015723
-410	Potencia (dB): -17.515072	Amplitud: 0.114084	ZCR: 0.012579
-411	Potencia (dB): -20.244598	Amplitud: 0.083964	ZCR: 0.015723
-412	Potencia (dB): -23.578390	Amplitud: 0.058408	ZCR: 0.012579
-413	Potencia (dB): -25.779518	Amplitud: 0.039893	ZCR: 0.018868
-414	Potencia (dB): -19.432161	Amplitud: 0.079137	ZCR: 0.034591
-415	Potencia (dB): -14.300775	Amplitud: 0.167234	ZCR: 0.022013
-416	Potencia (dB): -13.476377	Amplitud: 0.173293	ZCR: 0.028302
-417	Potencia (dB): -12.488393	Amplitud: 0.192106	ZCR: 0.025157
-418	Potencia (dB): -13.450679	Amplitud: 0.176288	ZCR: 0.028302
-419	Potencia (dB): -14.856182	Amplitud: 0.149488	ZCR: 0.031447
-420	Potencia (dB): -14.288151	Amplitud: 0.157715	ZCR: 0.018868
-421	Potencia (dB): -15.588005	Amplitud: 0.131631	ZCR: 0.025157
-422	Potencia (dB): -17.148939	Amplitud: 0.112016	ZCR: 0.022013
-423	Potencia (dB): -23.309650	Amplitud: 0.053516	ZCR: 0.018868
-424	Potencia (dB): -27.695395	Amplitud: 0.031965	ZCR: 0.009434
-425	Potencia (dB): -26.401562	Amplitud: 0.035301	ZCR: 0.047170
-426	Potencia (dB): -21.280117	Amplitud: 0.068543	ZCR: 0.034591
-427	Potencia (dB): -18.546188	Amplitud: 0.095682	ZCR: 0.028302
-428	Potencia (dB): -19.008865	Amplitud: 0.092076	ZCR: 0.031447
-429	Potencia (dB): -19.167301	Amplitud: 0.090710	ZCR: 0.022013
-430	Potencia (dB): -20.057693	Amplitud: 0.079700	ZCR: 0.044025
-431	Potencia (dB): -21.738733	Amplitud: 0.066459	ZCR: 0.006289
-432	Potencia (dB): -21.684193	Amplitud: 0.067249	ZCR: 0.018868
-433	Potencia (dB): -21.528582	Amplitud: 0.070245	ZCR: 0.012579
-434	Potencia (dB): -21.590811	Amplitud: 0.069913	ZCR: 0.012579
-435	Potencia (dB): -22.064596	Amplitud: 0.066279	ZCR: 0.012579
-436	Potencia (dB): -22.184021	Amplitud: 0.066532	ZCR: 0.012579
-437	Potencia (dB): -22.032230	Amplitud: 0.068586	ZCR: 0.012579
-438	Potencia (dB): -24.320827	Amplitud: 0.052975	ZCR: 0.012579
-439	Potencia (dB): -29.649252	Amplitud: 0.028235	ZCR: 0.012579
-440	Potencia (dB): -35.734531	Amplitud: 0.013905	ZCR: 0.018868
-441	Potencia (dB): -25.505873	Amplitud: 0.041093	ZCR: 0.084906
-442	Potencia (dB): -23.558622	Amplitud: 0.054632	ZCR: 0.028302
-443	Potencia (dB): -17.965548	Amplitud: 0.099880	ZCR: 0.015723
-444	Potencia (dB): -16.663738	Amplitud: 0.123573	ZCR: 0.022013
-445	Potencia (dB): -17.706251	Amplitud: 0.111680	ZCR: 0.022013
-446	Potencia (dB): -19.111801	Amplitud: 0.095966	ZCR: 0.018868
-447	Potencia (dB): -21.358707	Amplitud: 0.073450	ZCR: 0.018868
-448	Potencia (dB): -22.517010	Amplitud: 0.064808	ZCR: 0.018868
-449	Potencia (dB): -21.829773	Amplitud: 0.065899	ZCR: 0.031447
-450	Potencia (dB): -19.770720	Amplitud: 0.089096	ZCR: 0.018868
-451	Potencia (dB): -18.016855	Amplitud: 0.106114	ZCR: 0.025157
-452	Potencia (dB): -18.720457	Amplitud: 0.094889	ZCR: 0.025157
-453	Potencia (dB): -20.134686	Amplitud: 0.083654	ZCR: 0.018868
-454	Potencia (dB): -28.001816	Amplitud: 0.033400	ZCR: 0.006289
-455	Potencia (dB): -30.166605	Amplitud: 0.027077	ZCR: 0.009434
-456	Potencia (dB): -29.243979	Amplitud: 0.028031	ZCR: 0.012579
-457	Potencia (dB): -18.627016	Amplitud: 0.085999	ZCR: 0.028302
-458	Potencia (dB): -18.850435	Amplitud: 0.098046	ZCR: 0.012579
-459	Potencia (dB): -19.703588	Amplitud: 0.086125	ZCR: 0.031447
-460	Potencia (dB): -19.651690	Amplitud: 0.089700	ZCR: 0.012579
-461	Potencia (dB): -20.565943	Amplitud: 0.079306	ZCR: 0.025157
-462	Potencia (dB): -22.551970	Amplitud: 0.062753	ZCR: 0.018868
-463	Potencia (dB): -23.376133	Amplitud: 0.057599	ZCR: 0.012579
-464	Potencia (dB): -26.857853	Amplitud: 0.037687	ZCR: 0.009434
-465	Potencia (dB): -31.316423	Amplitud: 0.022958	ZCR: 0.012579
-466	Potencia (dB): -33.459167	Amplitud: 0.017903	ZCR: 0.025157
-467	Potencia (dB): -35.176880	Amplitud: 0.014894	ZCR: 0.018868
-468	Potencia (dB): -26.068741	Amplitud: 0.033500	ZCR: 0.022013
-469	Potencia (dB): -31.631559	Amplitud: 0.020598	ZCR: 0.053459
-470	Potencia (dB): -44.455692	Amplitud: 0.005060	ZCR: 0.040881
-471	Potencia (dB): -29.302904	Amplitud: 0.024252	ZCR: 0.056604
-472	Potencia (dB): -34.536110	Amplitud: 0.015703	ZCR: 0.037736
-473	Potencia (dB): -22.854769	Amplitud: 0.057888	ZCR: 0.012579
-474	Potencia (dB): -20.672939	Amplitud: 0.080563	ZCR: 0.012579
-475	Potencia (dB): -20.769373	Amplitud: 0.076196	ZCR: 0.018868
-476	Potencia (dB): -20.686052	Amplitud: 0.079866	ZCR: 0.022013
-477	Potencia (dB): -23.276680	Amplitud: 0.059851	ZCR: 0.009434
-478	Potencia (dB): -26.797710	Amplitud: 0.037162	ZCR: 0.009434
-479	Potencia (dB): -33.230927	Amplitud: 0.018128	ZCR: 0.025157
-480	Potencia (dB): -36.037083	Amplitud: 0.011595	ZCR: 0.059748
-481	Potencia (dB): -31.472750	Amplitud: 0.018453	ZCR: 0.191824
-482	Potencia (dB): -30.457926	Amplitud: 0.024162	ZCR: 0.204403
-483	Potencia (dB): -24.313349	Amplitud: 0.049569	ZCR: 0.056604
-484	Potencia (dB): -21.525875	Amplitud: 0.075811	ZCR: 0.009434
-485	Potencia (dB): -25.422033	Amplitud: 0.044281	ZCR: 0.062893
-486	Potencia (dB): -26.890236	Amplitud: 0.038324	ZCR: 0.003145
-487	Potencia (dB): -28.366539	Amplitud: 0.037306	ZCR: 0.000000
-488	Potencia (dB): -34.427700	Amplitud: 0.014765	ZCR: 0.037736
-489	Potencia (dB): -39.489006	Amplitud: 0.009115	ZCR: 0.034591
-490	Potencia (dB): -41.580528	Amplitud: 0.006803	ZCR: 0.066038
-491	Potencia (dB): -34.831711	Amplitud: 0.011156	ZCR: 0.081761
-492	Potencia (dB): -32.475567	Amplitud: 0.018991	ZCR: 0.150943
-493	Potencia (dB): -32.466148	Amplitud: 0.019137	ZCR: 0.103774
-494	Potencia (dB): -27.333666	Amplitud: 0.029280	ZCR: 0.012579
-495	Potencia (dB): -23.146406	Amplitud: 0.059388	ZCR: 0.018868
-496	Potencia (dB): -23.748714	Amplitud: 0.047866	ZCR: 0.025157
-497	Potencia (dB): -30.301487	Amplitud: 0.023202	ZCR: 0.056604
-498	Potencia (dB): -46.615784	Amplitud: 0.003876	ZCR: 0.053459
-499	Potencia (dB): -48.327686	Amplitud: 0.003148	ZCR: 0.056604
-500	Potencia (dB): -50.013763	Amplitud: 0.002576	ZCR: 0.106918
-501	Potencia (dB): -36.907494	Amplitud: 0.006631	ZCR: 0.062893
-502	Potencia (dB): -34.322956	Amplitud: 0.011687	ZCR: 0.094340
-503	Potencia (dB): -25.832014	Amplitud: 0.036134	ZCR: 0.059748
-504	Potencia (dB): -18.437841	Amplitud: 0.093480	ZCR: 0.022013
-505	Potencia (dB): -15.213268	Amplitud: 0.144058	ZCR: 0.022013
-506	Potencia (dB): -14.737505	Amplitud: 0.154603	ZCR: 0.025157
-507	Potencia (dB): -16.637529	Amplitud: 0.119063	ZCR: 0.018868
-508	Potencia (dB): -18.717621	Amplitud: 0.093591	ZCR: 0.018868
-509	Potencia (dB): -22.867310	Amplitud: 0.058887	ZCR: 0.025157
-510	Potencia (dB): -26.879034	Amplitud: 0.038284	ZCR: 0.050314
-511	Potencia (dB): -30.556475	Amplitud: 0.022036	ZCR: 0.100629
-512	Potencia (dB): -27.998327	Amplitud: 0.033786	ZCR: 0.094340
-513	Potencia (dB): -25.999350	Amplitud: 0.041045	ZCR: 0.056604
-514	Potencia (dB): -29.581638	Amplitud: 0.023178	ZCR: 0.056604
-515	Potencia (dB): -33.183472	Amplitud: 0.017661	ZCR: 0.018868
-516	Potencia (dB): -34.299908	Amplitud: 0.015941	ZCR: 0.025157
-517	Potencia (dB): -33.863228	Amplitud: 0.017241	ZCR: 0.012579
-518	Potencia (dB): -24.381796	Amplitud: 0.046892	ZCR: 0.069182
-519	Potencia (dB): -19.322735	Amplitud: 0.085782	ZCR: 0.031447
-520	Potencia (dB): -17.731304	Amplitud: 0.106262	ZCR: 0.025157
-521	Potencia (dB): -18.109194	Amplitud: 0.096404	ZCR: 0.034591
-522	Potencia (dB): -18.827662	Amplitud: 0.092195	ZCR: 0.022013
-523	Potencia (dB): -18.696438	Amplitud: 0.094222	ZCR: 0.031447
-524	Potencia (dB): -19.537209	Amplitud: 0.085983	ZCR: 0.028302
-525	Potencia (dB): -20.511387	Amplitud: 0.077096	ZCR: 0.018868
-526	Potencia (dB): -20.343058	Amplitud: 0.080526	ZCR: 0.025157
-527	Potencia (dB): -20.794008	Amplitud: 0.075923	ZCR: 0.018868
-528	Potencia (dB): -19.654888	Amplitud: 0.086707	ZCR: 0.015723
-529	Potencia (dB): -18.764273	Amplitud: 0.094730	ZCR: 0.025157
-530	Potencia (dB): -18.464960	Amplitud: 0.100263	ZCR: 0.022013
-531	Potencia (dB): -18.786268	Amplitud: 0.097582	ZCR: 0.025157
-532	Potencia (dB): -18.993319	Amplitud: 0.095928	ZCR: 0.018868
-533	Potencia (dB): -19.156019	Amplitud: 0.092412	ZCR: 0.022013
-534	Potencia (dB): -19.717321	Amplitud: 0.084456	ZCR: 0.037736
-535	Potencia (dB): -18.797449	Amplitud: 0.094863	ZCR: 0.028302
-536	Potencia (dB): -18.239700	Amplitud: 0.097987	ZCR: 0.031447
-537	Potencia (dB): -18.174505	Amplitud: 0.100804	ZCR: 0.018868
-538	Potencia (dB): -17.756533	Amplitud: 0.106173	ZCR: 0.018868
-539	Potencia (dB): -17.381691	Amplitud: 0.109719	ZCR: 0.025157
-540	Potencia (dB): -17.442884	Amplitud: 0.106494	ZCR: 0.028302
-541	Potencia (dB): -16.257021	Amplitud: 0.121255	ZCR: 0.025157
-542	Potencia (dB): -15.546453	Amplitud: 0.131082	ZCR: 0.028302
-543	Potencia (dB): -14.798866	Amplitud: 0.143475	ZCR: 0.018868
-544	Potencia (dB): -13.268666	Amplitud: 0.176670	ZCR: 0.022013
-545	Potencia (dB): -12.856164	Amplitud: 0.183198	ZCR: 0.025157
-546	Potencia (dB): -12.281514	Amplitud: 0.199695	ZCR: 0.022013
-547	Potencia (dB): -11.728018	Amplitud: 0.213046	ZCR: 0.018868
-548	Potencia (dB): -10.552535	Amplitud: 0.241071	ZCR: 0.025157
-549	Potencia (dB): -12.375913	Amplitud: 0.194635	ZCR: 0.031447
-550	Potencia (dB): -13.828592	Amplitud: 0.156806	ZCR: 0.037736
-551	Potencia (dB): -14.203010	Amplitud: 0.157900	ZCR: 0.022013
-552	Potencia (dB): -16.457703	Amplitud: 0.122393	ZCR: 0.031447
-553	Potencia (dB): -21.436836	Amplitud: 0.066502	ZCR: 0.025157
-554	Potencia (dB): -22.152355	Amplitud: 0.069676	ZCR: 0.009434
-555	Potencia (dB): -23.311121	Amplitud: 0.059846	ZCR: 0.009434
-556	Potencia (dB): -29.487530	Amplitud: 0.028881	ZCR: 0.031447
-557	Potencia (dB): -21.450855	Amplitud: 0.071467	ZCR: 0.012579
-558	Potencia (dB): -30.426521	Amplitud: 0.025095	ZCR: 0.078616
-559	Potencia (dB): -32.905933	Amplitud: 0.019567	ZCR: 0.015723
-560	Potencia (dB): -36.780476	Amplitud: 0.011884	ZCR: 0.053459
-561	Potencia (dB): -31.334160	Amplitud: 0.021290	ZCR: 0.018868
-562	Potencia (dB): -30.540234	Amplitud: 0.027418	ZCR: 0.003145
-563	Potencia (dB): -32.095245	Amplitud: 0.023238	ZCR: 0.000000
-564	Potencia (dB): -36.767250	Amplitud: 0.012741	ZCR: 0.022013
-565	Potencia (dB): -36.361858	Amplitud: 0.014463	ZCR: 0.000000
-566	Potencia (dB): -47.138660	Amplitud: 0.003629	ZCR: 0.072327
-567	Potencia (dB): -48.832611	Amplitud: 0.002887	ZCR: 0.097484
-568	Potencia (dB): -46.638206	Amplitud: 0.003814	ZCR: 0.053459
-569	Potencia (dB): -47.059875	Amplitud: 0.003405	ZCR: 0.072327
-570	Potencia (dB): -49.283947	Amplitud: 0.002717	ZCR: 0.081761
-571	Potencia (dB): -50.499516	Amplitud: 0.002355	ZCR: 0.125786
-572	Potencia (dB): -46.203419	Amplitud: 0.003908	ZCR: 0.069182
-573	Potencia (dB): -49.123203	Amplitud: 0.002802	ZCR: 0.097484
-574	Potencia (dB): -48.102386	Amplitud: 0.003268	ZCR: 0.116352
-575	Potencia (dB): -35.141430	Amplitud: 0.011382	ZCR: 0.066038
-576	Potencia (dB): -44.752243	Amplitud: 0.004514	ZCR: 0.059748
-577	Potencia (dB): -44.276821	Amplitud: 0.004622	ZCR: 0.062893
-578	Potencia (dB): -47.437798	Amplitud: 0.003342	ZCR: 0.084906
-579	Potencia (dB): -41.887775	Amplitud: 0.006909	ZCR: 0.012579
-580	Potencia (dB): -46.650005	Amplitud: 0.003539	ZCR: 0.081761
-581	Potencia (dB): -47.022133	Amplitud: 0.003766	ZCR: 0.028302
-582	Potencia (dB): -45.456955	Amplitud: 0.004392	ZCR: 0.040881
-583	Potencia (dB): -48.078243	Amplitud: 0.003175	ZCR: 0.066038
-584	Potencia (dB): -32.589211	Amplitud: 0.017332	ZCR: 0.028302
-585	Potencia (dB): -38.503773	Amplitud: 0.010675	ZCR: 0.022013
-586	Potencia (dB): -38.788006	Amplitud: 0.009856	ZCR: 0.009434
-587	Potencia (dB): -39.987232	Amplitud: 0.007537	ZCR: 0.062893
-588	Potencia (dB): -33.486252	Amplitud: 0.009404	ZCR: 0.094340
-589	Potencia (dB): -32.182812	Amplitud: 0.016701	ZCR: 0.059748
-590	Potencia (dB): -39.934956	Amplitud: 0.008686	ZCR: 0.034591
-591	Potencia (dB): -42.042171	Amplitud: 0.006762	ZCR: 0.031447
-592	Potencia (dB): -32.068039	Amplitud: 0.015329	ZCR: 0.028302
-593	Potencia (dB): -23.726700	Amplitud: 0.058168	ZCR: 0.009434
-594	Potencia (dB): -24.046700	Amplitud: 0.050175	ZCR: 0.006289
-595	Potencia (dB): -24.571636	Amplitud: 0.046734	ZCR: 0.012579
-596	Potencia (dB): -24.760441	Amplitud: 0.046993	ZCR: 0.025157
-597	Potencia (dB): -24.435627	Amplitud: 0.049541	ZCR: 0.018868
-598	Potencia (dB): -24.861713	Amplitud: 0.048858	ZCR: 0.012579
-599	Potencia (dB): -24.449720	Amplitud: 0.051073	ZCR: 0.009434
-600	Potencia (dB): -24.190647	Amplitud: 0.052728	ZCR: 0.015723
-601	Potencia (dB): -24.432529	Amplitud: 0.049913	ZCR: 0.012579
-602	Potencia (dB): -24.170261	Amplitud: 0.051570	ZCR: 0.012579
-603	Potencia (dB): -24.821844	Amplitud: 0.047439	ZCR: 0.018868
-604	Potencia (dB): -23.968918	Amplitud: 0.049627	ZCR: 0.025157
-605	Potencia (dB): -23.675682	Amplitud: 0.052393	ZCR: 0.012579
-606	Potencia (dB): -24.571777	Amplitud: 0.048650	ZCR: 0.015723
-607	Potencia (dB): -29.704876	Amplitud: 0.025819	ZCR: 0.022013
-608	Potencia (dB): -20.880285	Amplitud: 0.071539	ZCR: 0.006289
-609	Potencia (dB): -22.061035	Amplitud: 0.062836	ZCR: 0.003145
-610	Potencia (dB): -23.740049	Amplitud: 0.053898	ZCR: 0.003145
-611	Potencia (dB): -27.657404	Amplitud: 0.033725	ZCR: 0.006289
-612	Potencia (dB): -22.963413	Amplitud: 0.061451	ZCR: 0.009434
-613	Potencia (dB): -19.753597	Amplitud: 0.085567	ZCR: 0.009434
-614	Potencia (dB): -16.174469	Amplitud: 0.121261	ZCR: 0.009434
-615	Potencia (dB): -11.895445	Amplitud: 0.177002	ZCR: 0.012579
-616	Potencia (dB): -14.525865	Amplitud: 0.158031	ZCR: 0.018868
-617	Potencia (dB): -17.202068	Amplitud: 0.107956	ZCR: 0.025157
-618	Potencia (dB): -17.629885	Amplitud: 0.101603	ZCR: 0.025157
-619	Potencia (dB): -18.978676	Amplitud: 0.097879	ZCR: 0.012579
-620	Potencia (dB): -27.450737	Amplitud: 0.038353	ZCR: 0.006289
-621	Potencia (dB): -30.010906	Amplitud: 0.026448	ZCR: 0.009434
-622	Potencia (dB): -34.752052	Amplitud: 0.015906	ZCR: 0.015723
-623	Potencia (dB): -32.984360	Amplitud: 0.018703	ZCR: 0.012579
-624	Potencia (dB): -36.646412	Amplitud: 0.012131	ZCR: 0.025157
-625	Potencia (dB): -39.575562	Amplitud: 0.009162	ZCR: 0.031447
-626	Potencia (dB): -29.983082	Amplitud: 0.017116	ZCR: 0.053459
-627	Potencia (dB): -18.662352	Amplitud: 0.089011	ZCR: 0.018868
-628	Potencia (dB): -17.159296	Amplitud: 0.118277	ZCR: 0.022013
-629	Potencia (dB): -16.180574	Amplitud: 0.131144	ZCR: 0.022013
-630	Potencia (dB): -15.796196	Amplitud: 0.129764	ZCR: 0.022013
-631	Potencia (dB): -14.931914	Amplitud: 0.142219	ZCR: 0.022013
-632	Potencia (dB): -15.959462	Amplitud: 0.124812	ZCR: 0.018868
-633	Potencia (dB): -16.102535	Amplitud: 0.120710	ZCR: 0.018868
-634	Potencia (dB): -17.065674	Amplitud: 0.114464	ZCR: 0.015723
-635	Potencia (dB): -17.773344	Amplitud: 0.105434	ZCR: 0.012579
-636	Potencia (dB): -19.623646	Amplitud: 0.077503	ZCR: 0.025157
-637	Potencia (dB): -20.334860	Amplitud: 0.079713	ZCR: 0.006289
-638	Potencia (dB): -22.409096	Amplitud: 0.062682	ZCR: 0.009434
-639	Potencia (dB): -24.521282	Amplitud: 0.050941	ZCR: 0.006289
-640	Potencia (dB): -32.391548	Amplitud: 0.019481	ZCR: 0.028302
-641	Potencia (dB): -31.156242	Amplitud: 0.020452	ZCR: 0.075472
-642	Potencia (dB): -36.550568	Amplitud: 0.010551	ZCR: 0.163522
-643	Potencia (dB): -36.647499	Amplitud: 0.011924	ZCR: 0.141509
-644	Potencia (dB): -28.521912	Amplitud: 0.030351	ZCR: 0.097484
-645	Potencia (dB): -22.334629	Amplitud: 0.059260	ZCR: 0.040881
-646	Potencia (dB): -21.867254	Amplitud: 0.076805	ZCR: 0.000000
-647	Potencia (dB): -28.078613	Amplitud: 0.030920	ZCR: 0.050314
-648	Potencia (dB): -24.678366	Amplitud: 0.049273	ZCR: 0.015723
-649	Potencia (dB): -17.874205	Amplitud: 0.103392	ZCR: 0.015723
-650	Potencia (dB): -16.423008	Amplitud: 0.120185	ZCR: 0.018868
-651	Potencia (dB): -15.520373	Amplitud: 0.128825	ZCR: 0.025157
-652	Potencia (dB): -14.046750	Amplitud: 0.168287	ZCR: 0.025157
-653	Potencia (dB): -15.771058	Amplitud: 0.140931	ZCR: 0.025157
-654	Potencia (dB): -16.895308	Amplitud: 0.123150	ZCR: 0.025157
-655	Potencia (dB): -18.194370	Amplitud: 0.103276	ZCR: 0.022013
-656	Potencia (dB): -16.368814	Amplitud: 0.123528	ZCR: 0.034591
-657	Potencia (dB): -18.685469	Amplitud: 0.091878	ZCR: 0.037736
-658	Potencia (dB): -19.635223	Amplitud: 0.084112	ZCR: 0.031447
-659	Potencia (dB): -19.019611	Amplitud: 0.092113	ZCR: 0.025157
-660	Potencia (dB): -19.795624	Amplitud: 0.081773	ZCR: 0.025157
-661	Potencia (dB): -17.731150	Amplitud: 0.107299	ZCR: 0.028302
-662	Potencia (dB): -15.906761	Amplitud: 0.131292	ZCR: 0.025157
-663	Potencia (dB): -16.310333	Amplitud: 0.125334	ZCR: 0.025157
-664	Potencia (dB): -15.627164	Amplitud: 0.134008	ZCR: 0.025157
-665	Potencia (dB): -15.459581	Amplitud: 0.138649	ZCR: 0.025157
-666	Potencia (dB): -15.848783	Amplitud: 0.128977	ZCR: 0.025157
-667	Potencia (dB): -16.798481	Amplitud: 0.117079	ZCR: 0.018868
-668	Potencia (dB): -17.657150	Amplitud: 0.101606	ZCR: 0.025157
-669	Potencia (dB): -17.228643	Amplitud: 0.108168	ZCR: 0.025157
-670	Potencia (dB): -16.146275	Amplitud: 0.124308	ZCR: 0.018868
-671	Potencia (dB): -14.090113	Amplitud: 0.153983	ZCR: 0.025157
-672	Potencia (dB): -13.229105	Amplitud: 0.174251	ZCR: 0.025157
-673	Potencia (dB): -13.519408	Amplitud: 0.172775	ZCR: 0.018868
-674	Potencia (dB): -13.415196	Amplitud: 0.170215	ZCR: 0.018868
-675	Potencia (dB): -13.365489	Amplitud: 0.172333	ZCR: 0.025157
-676	Potencia (dB): -13.507017	Amplitud: 0.172659	ZCR: 0.018868
-677	Potencia (dB): -14.242803	Amplitud: 0.168885	ZCR: 0.018868
-678	Potencia (dB): -15.300226	Amplitud: 0.141750	ZCR: 0.012579
-679	Potencia (dB): -15.822956	Amplitud: 0.134998	ZCR: 0.012579
-680	Potencia (dB): -14.698373	Amplitud: 0.150684	ZCR: 0.012579
-681	Potencia (dB): -10.935989	Amplitud: 0.224110	ZCR: 0.028302
-682	Potencia (dB): -9.353196	Amplitud: 0.275138	ZCR: 0.025157
-683	Potencia (dB): -10.004232	Amplitud: 0.257262	ZCR: 0.028302
-684	Potencia (dB): -10.047918	Amplitud: 0.259755	ZCR: 0.025157
-685	Potencia (dB): -10.120892	Amplitud: 0.255306	ZCR: 0.025157
-686	Potencia (dB): -10.183460	Amplitud: 0.250023	ZCR: 0.025157
-687	Potencia (dB): -10.970690	Amplitud: 0.233108	ZCR: 0.025157
-688	Potencia (dB): -14.062116	Amplitud: 0.159315	ZCR: 0.025157
-689	Potencia (dB): -18.573509	Amplitud: 0.096936	ZCR: 0.015723
-690	Potencia (dB): -17.729292	Amplitud: 0.108556	ZCR: 0.012579
-691	Potencia (dB): -14.121951	Amplitud: 0.145149	ZCR: 0.018868
-692	Potencia (dB): -17.529873	Amplitud: 0.105576	ZCR: 0.012579
-693	Potencia (dB): -17.208784	Amplitud: 0.108937	ZCR: 0.012579
-694	Potencia (dB): -17.154810	Amplitud: 0.112861	ZCR: 0.012579
-695	Potencia (dB): -16.635580	Amplitud: 0.119835	ZCR: 0.012579
-696	Potencia (dB): -16.857462	Amplitud: 0.112792	ZCR: 0.012579
-697	Potencia (dB): -16.691452	Amplitud: 0.110412	ZCR: 0.015723
-698	Potencia (dB): -16.559210	Amplitud: 0.118981	ZCR: 0.012579
-699	Potencia (dB): -15.735042	Amplitud: 0.127937	ZCR: 0.012579
-700	Potencia (dB): -16.530205	Amplitud: 0.115707	ZCR: 0.015723
-701	Potencia (dB): -13.804837	Amplitud: 0.151625	ZCR: 0.040881
-702	Potencia (dB): -13.380126	Amplitud: 0.158136	ZCR: 0.028302
-703	Potencia (dB): -13.479960	Amplitud: 0.169897	ZCR: 0.018868
-704	Potencia (dB): -13.756140	Amplitud: 0.157156	ZCR: 0.028302
-705	Potencia (dB): -14.048578	Amplitud: 0.152393	ZCR: 0.028302
-706	Potencia (dB): -14.200193	Amplitud: 0.153947	ZCR: 0.025157
-707	Potencia (dB): -14.191706	Amplitud: 0.153811	ZCR: 0.025157
-708	Potencia (dB): -14.362453	Amplitud: 0.149357	ZCR: 0.025157
-709	Potencia (dB): -14.372849	Amplitud: 0.149768	ZCR: 0.018868
-710	Potencia (dB): -14.183469	Amplitud: 0.156757	ZCR: 0.022013
-711	Potencia (dB): -13.820685	Amplitud: 0.167770	ZCR: 0.018868
-712	Potencia (dB): -13.543581	Amplitud: 0.172598	ZCR: 0.018868
-713	Potencia (dB): -12.188148	Amplitud: 0.202460	ZCR: 0.025157
-714	Potencia (dB): -11.915614	Amplitud: 0.209222	ZCR: 0.025157
-715	Potencia (dB): -12.300971	Amplitud: 0.201275	ZCR: 0.028302
-716	Potencia (dB): -12.559635	Amplitud: 0.195845	ZCR: 0.025157
-717	Potencia (dB): -13.372674	Amplitud: 0.178959	ZCR: 0.025157
-718	Potencia (dB): -13.940516	Amplitud: 0.166256	ZCR: 0.025157
-719	Potencia (dB): -14.327781	Amplitud: 0.162394	ZCR: 0.025157
-720	Potencia (dB): -15.116680	Amplitud: 0.144758	ZCR: 0.031447
-721	Potencia (dB): -15.968740	Amplitud: 0.128311	ZCR: 0.028302
-722	Potencia (dB): -16.607687	Amplitud: 0.119499	ZCR: 0.022013
-723	Potencia (dB): -17.752106	Amplitud: 0.103797	ZCR: 0.031447
-724	Potencia (dB): -18.426559	Amplitud: 0.095803	ZCR: 0.018868
-725	Potencia (dB): -18.518015	Amplitud: 0.094905	ZCR: 0.018868
-726	Potencia (dB): -18.198320	Amplitud: 0.097532	ZCR: 0.025157
-727	Potencia (dB): -18.517759	Amplitud: 0.093892	ZCR: 0.025157
-728	Potencia (dB): -18.496449	Amplitud: 0.096212	ZCR: 0.025157
-729	Potencia (dB): -18.439825	Amplitud: 0.096247	ZCR: 0.018868
-730	Potencia (dB): -18.855635	Amplitud: 0.092416	ZCR: 0.018868
-731	Potencia (dB): -20.473045	Amplitud: 0.078044	ZCR: 0.015723
-732	Potencia (dB): -23.183168	Amplitud: 0.053324	ZCR: 0.012579
-733	Potencia (dB): -22.711180	Amplitud: 0.057624	ZCR: 0.018868
-734	Potencia (dB): -22.777689	Amplitud: 0.057162	ZCR: 0.018868
-735	Potencia (dB): -22.441084	Amplitud: 0.061007	ZCR: 0.012579
-736	Potencia (dB): -21.675436	Amplitud: 0.062056	ZCR: 0.015723
-737	Potencia (dB): -20.252794	Amplitud: 0.077016	ZCR: 0.031447
-738	Potencia (dB): -19.885435	Amplitud: 0.079865	ZCR: 0.031447
-739	Potencia (dB): -19.634438	Amplitud: 0.084544	ZCR: 0.018868
-740	Potencia (dB): -20.974964	Amplitud: 0.071839	ZCR: 0.031447
-741	Potencia (dB): -21.083780	Amplitud: 0.066680	ZCR: 0.018868
-742	Potencia (dB): -21.545456	Amplitud: 0.064089	ZCR: 0.018868
-743	Potencia (dB): -22.085857	Amplitud: 0.064748	ZCR: 0.006289
-744	Potencia (dB): -21.890545	Amplitud: 0.062765	ZCR: 0.018868
-745	Potencia (dB): -21.753950	Amplitud: 0.063735	ZCR: 0.015723
-746	Potencia (dB): -22.023703	Amplitud: 0.061641	ZCR: 0.012579
-747	Potencia (dB): -22.639500	Amplitud: 0.058372	ZCR: 0.012579
-748	Potencia (dB): -22.257332	Amplitud: 0.058692	ZCR: 0.025157
-749	Potencia (dB): -22.050369	Amplitud: 0.063165	ZCR: 0.022013
-750	Potencia (dB): -21.786270	Amplitud: 0.065098	ZCR: 0.012579
-751	Potencia (dB): -20.955008	Amplitud: 0.070895	ZCR: 0.009434
-752	Potencia (dB): -20.729807	Amplitud: 0.072036	ZCR: 0.012579
-753	Potencia (dB): -20.413383	Amplitud: 0.074606	ZCR: 0.018868
-754	Potencia (dB): -20.275480	Amplitud: 0.075318	ZCR: 0.015723
-755	Potencia (dB): -21.657455	Amplitud: 0.064402	ZCR: 0.015723
-756	Potencia (dB): -22.524620	Amplitud: 0.058935	ZCR: 0.012579
-757	Potencia (dB): -22.168671	Amplitud: 0.063126	ZCR: 0.015723
-758	Potencia (dB): -23.906345	Amplitud: 0.051014	ZCR: 0.025157
-759	Potencia (dB): -27.835585	Amplitud: 0.029517	ZCR: 0.012579
-760	Potencia (dB): -36.903690	Amplitud: 0.010768	ZCR: 0.037736
-761	Potencia (dB): -40.876266	Amplitud: 0.007231	ZCR: 0.040881
-762	Potencia (dB): -39.545010	Amplitud: 0.008862	ZCR: 0.034591
-763	Potencia (dB): -41.192444	Amplitud: 0.007208	ZCR: 0.028302
-764	Potencia (dB): -42.031540	Amplitud: 0.006730	ZCR: 0.025157
-765	Potencia (dB): -43.934124	Amplitud: 0.005132	ZCR: 0.078616
-766	Potencia (dB): -44.671093	Amplitud: 0.004906	ZCR: 0.047170
-767	Potencia (dB): -29.948902	Amplitud: 0.021227	ZCR: 0.069182
-768	Potencia (dB): -28.349062	Amplitud: 0.031187	ZCR: 0.012579
-769	Potencia (dB): -19.511284	Amplitud: 0.091767	ZCR: 0.009434
-770	Potencia (dB): -17.229980	Amplitud: 0.111879	ZCR: 0.018868
-771	Potencia (dB): -16.394775	Amplitud: 0.123417	ZCR: 0.018868
-772	Potencia (dB): -15.541644	Amplitud: 0.140425	ZCR: 0.022013
-773	Potencia (dB): -15.332005	Amplitud: 0.142726	ZCR: 0.025157
-774	Potencia (dB): -14.706595	Amplitud: 0.161857	ZCR: 0.018868
-775	Potencia (dB): -14.333793	Amplitud: 0.167213	ZCR: 0.022013
-776	Potencia (dB): -14.114351	Amplitud: 0.167575	ZCR: 0.018868
-777	Potencia (dB): -19.063688	Amplitud: 0.080558	ZCR: 0.018868
-778	Potencia (dB): -27.730133	Amplitud: 0.034976	ZCR: 0.012579
-779	Potencia (dB): -29.228394	Amplitud: 0.027166	ZCR: 0.009434
-780	Potencia (dB): -31.842653	Amplitud: 0.020317	ZCR: 0.025157
-781	Potencia (dB): -39.785370	Amplitud: 0.008108	ZCR: 0.037736
-782	Potencia (dB): -39.191212	Amplitud: 0.009555	ZCR: 0.025157
-783	Potencia (dB): -41.696815	Amplitud: 0.006459	ZCR: 0.056604
-784	Potencia (dB): -41.668293	Amplitud: 0.006651	ZCR: 0.050314
-785	Potencia (dB): -40.179546	Amplitud: 0.006553	ZCR: 0.069182
-786	Potencia (dB): -42.988300	Amplitud: 0.005850	ZCR: 0.047170
-787	Potencia (dB): -21.074396	Amplitud: 0.066991	ZCR: 0.031447
-788	Potencia (dB): -32.450741	Amplitud: 0.018285	ZCR: 0.047170
-789	Potencia (dB): -40.769459	Amplitud: 0.007537	ZCR: 0.053459
-790	Potencia (dB): -21.711863	Amplitud: 0.060227	ZCR: 0.037736
-791	Potencia (dB): -21.653421	Amplitud: 0.057773	ZCR: 0.037736
-792	Potencia (dB): -22.711485	Amplitud: 0.056674	ZCR: 0.028302
-793	Potencia (dB): -20.338974	Amplitud: 0.071794	ZCR: 0.044025
-794	Potencia (dB): -18.595779	Amplitud: 0.096675	ZCR: 0.018868
-795	Potencia (dB): -17.756151	Amplitud: 0.105163	ZCR: 0.018868
-796	Potencia (dB): -19.661016	Amplitud: 0.082150	ZCR: 0.025157
-797	Potencia (dB): -22.357857	Amplitud: 0.061534	ZCR: 0.018868
-798	Potencia (dB): -24.086386	Amplitud: 0.049031	ZCR: 0.022013
-799	Potencia (dB): -23.586243	Amplitud: 0.051517	ZCR: 0.025157
-800	Potencia (dB): -22.118027	Amplitud: 0.062501	ZCR: 0.018868
-801	Potencia (dB): -20.266331	Amplitud: 0.081053	ZCR: 0.012579
-802	Potencia (dB): -18.619312	Amplitud: 0.101523	ZCR: 0.012579
-803	Potencia (dB): -18.762028	Amplitud: 0.094735	ZCR: 0.018868
-804	Potencia (dB): -17.722897	Amplitud: 0.105905	ZCR: 0.018868
-805	Potencia (dB): -17.214920	Amplitud: 0.102041	ZCR: 0.018868
-806	Potencia (dB): -18.145975	Amplitud: 0.091579	ZCR: 0.018868
-807	Potencia (dB): -23.373623	Amplitud: 0.060495	ZCR: 0.003145
-808	Potencia (dB): -29.606087	Amplitud: 0.024838	ZCR: 0.025157
-809	Potencia (dB): -26.339331	Amplitud: 0.037322	ZCR: 0.037736
-810	Potencia (dB): -31.506662	Amplitud: 0.022701	ZCR: 0.103774
-811	Potencia (dB): -39.729607	Amplitud: 0.007823	ZCR: 0.166667
-812	Potencia (dB): -39.445629	Amplitud: 0.008434	ZCR: 0.176101
-813	Potencia (dB): -32.537952	Amplitud: 0.020705	ZCR: 0.097484
-814	Potencia (dB): -31.543886	Amplitud: 0.019960	ZCR: 0.279874
-815	Potencia (dB): -25.956133	Amplitud: 0.040086	ZCR: 0.301887
-816	Potencia (dB): -20.969902	Amplitud: 0.074080	ZCR: 0.078616
-817	Potencia (dB): -14.199781	Amplitud: 0.163255	ZCR: 0.018868
-818	Potencia (dB): -23.204662	Amplitud: 0.056706	ZCR: 0.037736
-819	Potencia (dB): -13.314151	Amplitud: 0.193776	ZCR: 0.006289
-820	Potencia (dB): -14.684435	Amplitud: 0.147024	ZCR: 0.015723
-821	Potencia (dB): -19.182714	Amplitud: 0.088508	ZCR: 0.018868
-822	Potencia (dB): -19.769981	Amplitud: 0.086835	ZCR: 0.006289
-823	Potencia (dB): -25.268402	Amplitud: 0.048405	ZCR: 0.050314
-824	Potencia (dB): -23.487608	Amplitud: 0.052225	ZCR: 0.160377
-825	Potencia (dB): -25.980581	Amplitud: 0.041185	ZCR: 0.198113
-826	Potencia (dB): -27.625835	Amplitud: 0.033019	ZCR: 0.160377
-827	Potencia (dB): -31.645880	Amplitud: 0.020709	ZCR: 0.185535
-828	Potencia (dB): -32.143646	Amplitud: 0.022405	ZCR: 0.006289
-829	Potencia (dB): -33.752541	Amplitud: 0.018229	ZCR: 0.018868
-830	Potencia (dB): -39.037556	Amplitud: 0.009613	ZCR: 0.025157
-831	Potencia (dB): -38.768215	Amplitud: 0.009591	ZCR: 0.022013
-832	Potencia (dB): -41.386208	Amplitud: 0.007092	ZCR: 0.037736
-833	Potencia (dB): -41.787529	Amplitud: 0.006939	ZCR: 0.022013
-834	Potencia (dB): -43.310230	Amplitud: 0.005501	ZCR: 0.053459
-835	Potencia (dB): -20.883558	Amplitud: 0.062067	ZCR: 0.025157
-836	Potencia (dB): -10.827674	Amplitud: 0.265484	ZCR: 0.003145
-837	Potencia (dB): -14.776031	Amplitud: 0.146972	ZCR: 0.018868
-838	Potencia (dB): -16.740744	Amplitud: 0.108710	ZCR: 0.031447
-839	Potencia (dB): -15.331465	Amplitud: 0.135790	ZCR: 0.028302
-840	Potencia (dB): -15.928479	Amplitud: 0.124533	ZCR: 0.028302
-841	Potencia (dB): -17.398472	Amplitud: 0.105631	ZCR: 0.028302
-842	Potencia (dB): -23.985344	Amplitud: 0.054075	ZCR: 0.015723
-843	Potencia (dB): -26.832254	Amplitud: 0.038169	ZCR: 0.003145
-844	Potencia (dB): -22.547081	Amplitud: 0.054396	ZCR: 0.050314
-845	Potencia (dB): -14.239364	Amplitud: 0.142260	ZCR: 0.028302
-846	Potencia (dB): -14.815000	Amplitud: 0.159070	ZCR: 0.006289
-847	Potencia (dB): -23.657816	Amplitud: 0.058577	ZCR: 0.012579
-848	Potencia (dB): -34.543404	Amplitud: 0.015300	ZCR: 0.106918
-849	Potencia (dB): -26.513216	Amplitud: 0.043239	ZCR: 0.037736
-850	Potencia (dB): -30.421970	Amplitud: 0.025230	ZCR: 0.295597
-851	Potencia (dB): -27.549179	Amplitud: 0.033188	ZCR: 0.188679
-852	Potencia (dB): -29.287094	Amplitud: 0.027711	ZCR: 0.128931
-853	Potencia (dB): -12.371476	Amplitud: 0.185861	ZCR: 0.015723
-854	Potencia (dB): -9.999931	Amplitud: 0.244033	ZCR: 0.018868
-855	Potencia (dB): -18.419449	Amplitud: 0.085990	ZCR: 0.022013
-856	Potencia (dB): -16.845560	Amplitud: 0.113682	ZCR: 0.018868
-857	Potencia (dB): -14.901775	Amplitud: 0.150755	ZCR: 0.018868
-858	Potencia (dB): -15.540451	Amplitud: 0.140508	ZCR: 0.018868
-859	Potencia (dB): -15.492495	Amplitud: 0.144391	ZCR: 0.018868
-860	Potencia (dB): -16.151222	Amplitud: 0.136871	ZCR: 0.022013
-861	Potencia (dB): -17.967899	Amplitud: 0.108933	ZCR: 0.015723
-862	Potencia (dB): -19.869989	Amplitud: 0.079932	ZCR: 0.022013
-863	Potencia (dB): -21.320181	Amplitud: 0.063215	ZCR: 0.022013
-864	Potencia (dB): -25.475044	Amplitud: 0.040346	ZCR: 0.050314
-865	Potencia (dB): -24.667328	Amplitud: 0.041227	ZCR: 0.009434
-866	Potencia (dB): -26.873701	Amplitud: 0.037682	ZCR: 0.012579
-867	Potencia (dB): -32.673389	Amplitud: 0.017025	ZCR: 0.022013
-868	Potencia (dB): -28.114464	Amplitud: 0.032467	ZCR: 0.012579
-869	Potencia (dB): -28.159981	Amplitud: 0.030493	ZCR: 0.012579
-870	Potencia (dB): -38.553028	Amplitud: 0.009691	ZCR: 0.037736
-871	Potencia (dB): -32.709755	Amplitud: 0.020566	ZCR: 0.006289
-872	Potencia (dB): -33.495815	Amplitud: 0.018967	ZCR: 0.018868
-873	Potencia (dB): -32.875416	Amplitud: 0.020368	ZCR: 0.006289
-874	Potencia (dB): -36.255516	Amplitud: 0.013694	ZCR: 0.012579
-875	Potencia (dB): -40.985683	Amplitud: 0.007811	ZCR: 0.025157
-876	Potencia (dB): -42.509731	Amplitud: 0.006462	ZCR: 0.025157
-877	Potencia (dB): -43.948372	Amplitud: 0.005513	ZCR: 0.018868
-878	Potencia (dB): -43.915306	Amplitud: 0.005186	ZCR: 0.050314
-879	Potencia (dB): -42.263062	Amplitud: 0.006181	ZCR: 0.072327
-880	Potencia (dB): -46.773251	Amplitud: 0.003448	ZCR: 0.122642
-881	Potencia (dB): -45.018097	Amplitud: 0.004510	ZCR: 0.103774
-882	Potencia (dB): -43.604431	Amplitud: 0.005294	ZCR: 0.084906
-883	Potencia (dB): -42.265816	Amplitud: 0.006442	ZCR: 0.059748
-884	Potencia (dB): -44.202309	Amplitud: 0.005014	ZCR: 0.075472
-885	Potencia (dB): -45.372181	Amplitud: 0.004336	ZCR: 0.097484
-886	Potencia (dB): -41.192768	Amplitud: 0.006642	ZCR: 0.066038
-887	Potencia (dB): -33.104229	Amplitud: 0.019149	ZCR: 0.028302
-888	Potencia (dB): -37.641441	Amplitud: 0.010387	ZCR: 0.050314
-889	Potencia (dB): -47.717911	Amplitud: 0.003328	ZCR: 0.106918
-890	Potencia (dB): -42.599598	Amplitud: 0.006060	ZCR: 0.047170
-891	Potencia (dB): -44.936207	Amplitud: 0.004507	ZCR: 0.059748
-892	Potencia (dB): -43.776825	Amplitud: 0.005161	ZCR: 0.088050
-893	Potencia (dB): -45.969322	Amplitud: 0.003902	ZCR: 0.084906
-894	Potencia (dB): -42.495667	Amplitud: 0.006358	ZCR: 0.059748
-895	Potencia (dB): -42.866417	Amplitud: 0.006001	ZCR: 0.025157
-896	Potencia (dB): -45.250805	Amplitud: 0.004095	ZCR: 0.097484
-897	Potencia (dB): -41.316097	Amplitud: 0.007326	ZCR: 0.018868
-898	Potencia (dB): -42.049728	Amplitud: 0.006526	ZCR: 0.040881
-899	Potencia (dB): -37.780899	Amplitud: 0.010598	ZCR: 0.053459
-900	Potencia (dB): -42.269577	Amplitud: 0.005939	ZCR: 0.053459
-901	Potencia (dB): -44.263096	Amplitud: 0.005091	ZCR: 0.056604
-902	Potencia (dB): -45.130527	Amplitud: 0.004437	ZCR: 0.053459
-903	Potencia (dB): -49.524837	Amplitud: 0.002694	ZCR: 0.075472
-904	Potencia (dB): -45.944939	Amplitud: 0.003985	ZCR: 0.050314
-905	Potencia (dB): -46.632656	Amplitud: 0.003861	ZCR: 0.056604
-906	Potencia (dB): -46.301281	Amplitud: 0.004186	ZCR: 0.053459
-907	Potencia (dB): -45.623150	Amplitud: 0.004384	ZCR: 0.037736
-908	Potencia (dB): -48.698929	Amplitud: 0.002935	ZCR: 0.094340
-909	Potencia (dB): -48.223549	Amplitud: 0.003046	ZCR: 0.100629
-910	Potencia (dB): -45.650860	Amplitud: 0.004333	ZCR: 0.059748
-911	Potencia (dB): -48.643147	Amplitud: 0.002957	ZCR: 0.113208
-912	Potencia (dB): -49.339005	Amplitud: 0.002749	ZCR: 0.097484
-913	Potencia (dB): -46.560436	Amplitud: 0.003735	ZCR: 0.066038
-914	Potencia (dB): -47.394783	Amplitud: 0.003490	ZCR: 0.062893
-915	Potencia (dB): -46.477383	Amplitud: 0.003721	ZCR: 0.081761
-916	Potencia (dB): -47.764824	Amplitud: 0.003276	ZCR: 0.091195
-917	Potencia (dB): -46.937607	Amplitud: 0.003531	ZCR: 0.091195
-918	Potencia (dB): -48.141090	Amplitud: 0.003127	ZCR: 0.097484
-919	Potencia (dB): -48.029427	Amplitud: 0.003207	ZCR: 0.069182
-920	Potencia (dB): -46.144875	Amplitud: 0.004256	ZCR: 0.047170
-921	Potencia (dB): -45.165958	Amplitud: 0.004628	ZCR: 0.034591
-922	Potencia (dB): -48.822979	Amplitud: 0.003001	ZCR: 0.072327
-923	Potencia (dB): -48.918922	Amplitud: 0.002739	ZCR: 0.106918
-924	Potencia (dB): -48.480946	Amplitud: 0.003033	ZCR: 0.069182
-925	Potencia (dB): -47.394650	Amplitud: 0.003535	ZCR: 0.091195
-926	Potencia (dB): -48.472443	Amplitud: 0.003030	ZCR: 0.088050
-927	Potencia (dB): -46.162766	Amplitud: 0.003979	ZCR: 0.059748
-928	Potencia (dB): -46.562920	Amplitud: 0.003741	ZCR: 0.097484
-929	Potencia (dB): -42.737831	Amplitud: 0.006003	ZCR: 0.059748
-930	Potencia (dB): -46.449551	Amplitud: 0.004087	ZCR: 0.050314
-931	Potencia (dB): -46.096275	Amplitud: 0.004143	ZCR: 0.047170
-932	Potencia (dB): -47.811020	Amplitud: 0.003306	ZCR: 0.088050
-933	Potencia (dB): -46.777180	Amplitud: 0.003649	ZCR: 0.072327
-934	Potencia (dB): -48.187668	Amplitud: 0.003315	ZCR: 0.059748
-935	Potencia (dB): -47.471436	Amplitud: 0.003424	ZCR: 0.075472
-936	Potencia (dB): -45.207245	Amplitud: 0.004548	ZCR: 0.062893
-937	Potencia (dB): -48.558861	Amplitud: 0.003064	ZCR: 0.072327
-938	Potencia (dB): -45.556953	Amplitud: 0.004513	ZCR: 0.047170
-939	Potencia (dB): -47.931293	Amplitud: 0.003277	ZCR: 0.084906
-940	Potencia (dB): -47.846458	Amplitud: 0.003181	ZCR: 0.091195
-941	Potencia (dB): -46.336018	Amplitud: 0.003761	ZCR: 0.072327
-942	Potencia (dB): -45.222050	Amplitud: 0.004569	ZCR: 0.050314
-943	Potencia (dB): -46.655216	Amplitud: 0.003481	ZCR: 0.100629
-944	Potencia (dB): -46.156384	Amplitud: 0.004034	ZCR: 0.078616
-945	Potencia (dB): -44.962574	Amplitud: 0.004590	ZCR: 0.075472
-946	Potencia (dB): -49.174114	Amplitud: 0.002824	ZCR: 0.084906
-947	Potencia (dB): -47.773212	Amplitud: 0.003159	ZCR: 0.091195
-948	Potencia (dB): -48.182140	Amplitud: 0.003222	ZCR: 0.088050
-949	Potencia (dB): -47.731010	Amplitud: 0.003240	ZCR: 0.081761
-950	Potencia (dB): -47.072102	Amplitud: 0.003655	ZCR: 0.072327
-951	Potencia (dB): -45.758537	Amplitud: 0.004131	ZCR: 0.031447
-952	Potencia (dB): -46.087463	Amplitud: 0.004142	ZCR: 0.044025
-953	Potencia (dB): -49.548351	Amplitud: 0.002673	ZCR: 0.081761
-954	Potencia (dB): -47.789185	Amplitud: 0.003371	ZCR: 0.053459
-955	Potencia (dB): -44.587421	Amplitud: 0.004560	ZCR: 0.059748
-956	Potencia (dB): -46.948650	Amplitud: 0.003548	ZCR: 0.081761
-957	Potencia (dB): -46.979568	Amplitud: 0.003649	ZCR: 0.066038
-958	Potencia (dB): -48.649750	Amplitud: 0.002815	ZCR: 0.119497
-959	Potencia (dB): -47.868591	Amplitud: 0.003389	ZCR: 0.097484
-960	Potencia (dB): -45.645744	Amplitud: 0.004354	ZCR: 0.047170
-961	Potencia (dB): -46.828800	Amplitud: 0.003851	ZCR: 0.066038
-962	Potencia (dB): -47.129601	Amplitud: 0.003642	ZCR: 0.081761
-963	Potencia (dB): -49.453373	Amplitud: 0.002658	ZCR: 0.081761
-964	Potencia (dB): -47.747501	Amplitud: 0.003242	ZCR: 0.075472
-965	Potencia (dB): -46.918365	Amplitud: 0.003747	ZCR: 0.053459
-966	Potencia (dB): -47.922615	Amplitud: 0.003284	ZCR: 0.059748
-967	Potencia (dB): -47.802467	Amplitud: 0.003192	ZCR: 0.084906
-968	Potencia (dB): -49.724705	Amplitud: 0.002460	ZCR: 0.113208
-969	Potencia (dB): -49.431984	Amplitud: 0.002601	ZCR: 0.138365
-970	Potencia (dB): -45.395641	Amplitud: 0.004286	ZCR: 0.053459
-971	Potencia (dB): -43.136005	Amplitud: 0.005586	ZCR: 0.044025
-972	Potencia (dB): -46.198597	Amplitud: 0.004268	ZCR: 0.059748
-973	Potencia (dB): -47.863476	Amplitud: 0.003270	ZCR: 0.091195
-974	Potencia (dB): -49.260975	Amplitud: 0.002556	ZCR: 0.132075
-975	Potencia (dB): -49.050655	Amplitud: 0.002697	ZCR: 0.116352
-976	Potencia (dB): -48.774254	Amplitud: 0.002857	ZCR: 0.091195
-977	Potencia (dB): -48.524834	Amplitud: 0.003040	ZCR: 0.066038
-978	Potencia (dB): -47.341423	Amplitud: 0.003563	ZCR: 0.084906
-979	Potencia (dB): -49.861622	Amplitud: 0.002657	ZCR: 0.088050
-980	Potencia (dB): -47.701511	Amplitud: 0.003283	ZCR: 0.081761
-981	Potencia (dB): -47.226795	Amplitud: 0.003439	ZCR: 0.078616
-982	Potencia (dB): -49.730812	Amplitud: 0.002671	ZCR: 0.097484
-983	Potencia (dB): -46.944786	Amplitud: 0.003738	ZCR: 0.059748
-984	Potencia (dB): -51.415421	Amplitud: 0.002136	ZCR: 0.144654
-985	Potencia (dB): -47.746658	Amplitud: 0.003223	ZCR: 0.081761
-986	Potencia (dB): -46.039043	Amplitud: 0.004146	ZCR: 0.069182
-987	Potencia (dB): -47.755177	Amplitud: 0.003402	ZCR: 0.062893
-988	Potencia (dB): -48.811604	Amplitud: 0.002777	ZCR: 0.100629
-989	Potencia (dB): -48.634003	Amplitud: 0.003003	ZCR: 0.100629
-990	Potencia (dB): -45.994606	Amplitud: 0.003909	ZCR: 0.072327
-991	Potencia (dB): -49.632610	Amplitud: 0.002683	ZCR: 0.088050
-992	Potencia (dB): -45.712948	Amplitud: 0.003869	ZCR: 0.088050
-993	Potencia (dB): -47.237095	Amplitud: 0.003491	ZCR: 0.094340
-994	Potencia (dB): -48.045719	Amplitud: 0.003152	ZCR: 0.069182
-995	Potencia (dB): -48.131741	Amplitud: 0.002982	ZCR: 0.072327
-996	Potencia (dB): -44.269535	Amplitud: 0.005349	ZCR: 0.034591
-997	Potencia (dB): -48.443417	Amplitud: 0.003126	ZCR: 0.088050
-998	Potencia (dB): -49.822483	Amplitud: 0.002674	ZCR: 0.088050
-999	Potencia (dB): -47.522896	Amplitud: 0.003624	ZCR: 0.062893
-1000	Potencia (dB): -44.390007	Amplitud: 0.004350	ZCR: 0.072327
-1001	Potencia (dB): -48.765171	Amplitud: 0.002947	ZCR: 0.091195
-1002	Potencia (dB): -46.640636	Amplitud: 0.003776	ZCR: 0.066038
-1003	Potencia (dB): -45.886436	Amplitud: 0.004261	ZCR: 0.066038
-1004	Potencia (dB): -50.484173	Amplitud: 0.002435	ZCR: 0.116352
-1005	Potencia (dB): -48.509731	Amplitud: 0.003085	ZCR: 0.069182
-1006	Potencia (dB): -47.891315	Amplitud: 0.003214	ZCR: 0.078616
+0	-46.514427	0.003651	1408.805054
+1	-45.233746	0.004646	905.660400
+2	-47.810760	0.003179	1308.176147
+3	-46.053436	0.004050	1257.861694
+4	-47.067066	0.003492	1157.232666
+5	-49.094265	0.002679	2062.893066
+6	-48.101437	0.003136	1257.861694
+7	-47.709148	0.003463	1157.232666
+8	-51.318462	0.002165	2264.150879
+9	-49.156666	0.002794	1308.176147
+10	-46.150890	0.004173	1207.547119
+11	-50.068806	0.002648	1358.490601
+12	-49.512100	0.002661	1559.748413
+13	-49.997147	0.002570	1358.490601
+14	-47.909943	0.003357	654.088074
+15	-46.627846	0.003882	603.773560
+16	-46.402233	0.003967	805.031433
+17	-47.005337	0.003642	1610.062866
+18	-45.935322	0.004367	754.716980
+19	-47.818386	0.003178	1509.433960
+20	-47.282814	0.003625	905.660400
+21	-42.861771	0.006394	201.257858
+22	-43.373974	0.005670	805.031433
+23	-43.460644	0.005737	503.144653
+24	-35.745934	0.012823	452.830200
+25	-35.977509	0.014124	150.943390
+26	-34.263939	0.016389	50.314465
+27	-36.968910	0.013269	150.943390
+28	-36.430618	0.013482	0.000000
+29	-36.236629	0.012477	503.144653
+30	-38.538921	0.010019	201.257858
+31	-30.577526	0.026309	50.314465
+32	-35.918705	0.012566	352.201263
+33	-35.814781	0.013378	452.830200
+34	-34.880283	0.016028	100.628929
+35	-35.250622	0.013848	50.314465
+36	-32.496132	0.019284	100.628929
+37	-37.322849	0.011316	402.515717
+38	-35.012974	0.014698	301.886780
+39	-39.569069	0.009410	0.000000
+40	-38.184998	0.010517	301.886780
+41	-38.056664	0.011297	150.943390
+42	-39.784241	0.009029	553.459106
+43	-40.030380	0.008025	553.459106
+44	-41.480854	0.007021	402.515717
+45	-37.154964	0.012262	301.886780
+46	-33.921696	0.017029	452.830200
+47	-43.116390	0.005529	805.031433
+48	-38.424305	0.010455	150.943390
+49	-39.431801	0.008429	603.773560
+50	-43.821312	0.005356	452.830200
+51	-36.760044	0.012034	352.201263
+52	-38.844887	0.010251	251.572327
+53	-33.375687	0.019316	150.943390
+54	-38.758057	0.010072	251.572327
+55	-40.877731	0.007349	704.402527
+56	-44.218407	0.005063	855.345886
+57	-38.064705	0.010553	654.088074
+58	-39.114910	0.009812	150.943390
+59	-42.312042	0.006199	905.660400
+60	-42.765293	0.005811	352.201263
+61	-39.527451	0.007173	1559.748413
+62	-44.742130	0.004864	352.201263
+63	-42.505520	0.006264	704.402527
+64	-40.338993	0.008355	553.459106
+65	-40.701187	0.007926	301.886780
+66	-44.400352	0.005046	955.974854
+67	-40.500343	0.007842	603.773560
+68	-39.842136	0.008145	704.402527
+69	-41.884033	0.007329	301.886780
+70	-37.241661	0.011726	100.628929
+71	-45.804005	0.004226	1106.918213
+72	-43.957924	0.005285	955.974854
+73	-43.027859	0.005874	402.515717
+74	-49.671432	0.002618	1559.748413
+75	-45.132519	0.004262	1006.289307
+76	-46.847622	0.003677	1308.176147
+77	-49.244083	0.002834	1459.119507
+78	-47.552940	0.003267	2012.578613
+79	-47.882145	0.003300	1710.691772
+80	-47.081879	0.003788	1308.176147
+81	-49.056061	0.002816	1559.748413
+82	-47.130997	0.003581	1106.918213
+83	-45.875111	0.004144	1106.918213
+84	-42.363056	0.006224	1308.176147
+85	-41.888489	0.006515	1358.490601
+86	-43.439407	0.005951	553.459106
+87	-47.096207	0.003487	1610.062866
+88	-45.981937	0.004260	805.031433
+89	-48.051903	0.003124	2012.578613
+90	-44.234013	0.005110	1157.232666
+91	-35.075275	0.007867	2415.094238
+92	-47.758034	0.003466	1207.547119
+93	-48.646915	0.002969	1911.949707
+94	-48.865158	0.002706	1962.264160
+95	-47.073292	0.003694	1509.433960
+96	-45.899117	0.004242	1308.176147
+97	-46.031757	0.003888	1710.691772
+98	-46.678886	0.003769	1358.490601
+99	-44.805916	0.004530	1358.490601
+100	-45.969112	0.004218	805.031433
+101	-47.775234	0.003385	1660.377319
+102	-46.573071	0.003802	1509.433960
+103	-36.147812	0.011732	1106.918213
+104	-37.886627	0.008650	1911.949707
+105	-43.482082	0.005162	2163.521973
+106	-43.444717	0.005355	1358.490601
+107	-40.241344	0.007113	1006.289307
+108	-44.015175	0.005075	1610.062866
+109	-44.918835	0.004581	1308.176147
+110	-44.349449	0.004670	1710.691772
+111	-45.855083	0.004161	1761.006348
+112	-45.615261	0.004262	1660.377319
+113	-47.069935	0.003789	1157.232666
+114	-46.258041	0.003905	1308.176147
+115	-45.575558	0.004177	1207.547119
+116	-46.403393	0.003799	1509.433960
+117	-43.693695	0.004849	1408.805054
+118	-44.077690	0.005356	754.716980
+119	-45.755951	0.004179	1006.289307
+120	-45.142670	0.004486	1056.603760
+121	-45.883606	0.004188	553.459106
+122	-46.234531	0.003759	905.660400
+123	-45.081512	0.004353	955.974854
+124	-45.127934	0.004527	1408.805054
+125	-45.360104	0.004498	1106.918213
+126	-46.340866	0.003958	1106.918213
+127	-45.142475	0.004171	1056.603760
+128	-43.950233	0.004994	1358.490601
+129	-49.285225	0.002855	1559.748413
+130	-48.741642	0.002961	1308.176147
+131	-43.978546	0.005372	1106.918213
+132	-45.715961	0.004282	955.974854
+133	-47.042694	0.003594	1459.119507
+134	-47.213787	0.003459	1006.289307
+135	-47.686649	0.003395	1207.547119
+136	-51.255600	0.002248	1911.949707
+137	-47.608681	0.003380	1408.805054
+138	-48.318600	0.003007	1308.176147
+139	-44.918503	0.004709	805.031433
+140	-43.582302	0.004968	805.031433
+141	-43.109169	0.005733	805.031433
+142	-36.325665	0.012618	503.144653
+143	-24.173086	0.049385	100.628929
+144	-20.439077	0.079925	402.515717
+145	-18.413565	0.106980	100.628929
+146	-16.370516	0.135699	100.628929
+147	-16.736025	0.128040	100.628929
+148	-16.814356	0.112842	301.886780
+149	-16.603899	0.122651	301.886780
+150	-20.875465	0.073346	1157.232666
+151	-16.679041	0.116613	1358.490601
+152	-18.208275	0.100473	2465.408691
+153	-23.218693	0.053547	3773.584961
+154	-25.058113	0.047717	402.515717
+155	-34.796185	0.015952	251.572327
+156	-34.179661	0.019233	0.000000
+157	-43.115826	0.005710	704.402527
+158	-49.954163	0.002524	1106.918213
+159	-44.241329	0.004907	1106.918213
+160	-24.461006	0.037793	704.402527
+161	-19.667582	0.068471	1056.603760
+162	-18.331692	0.085419	301.886780
+163	-12.619734	0.179684	352.201263
+164	-10.924523	0.224478	251.572327
+165	-10.850253	0.214689	352.201263
+166	-12.178269	0.174567	301.886780
+167	-15.360894	0.131157	301.886780
+168	-15.390244	0.139638	251.572327
+169	-15.461215	0.142212	201.257858
+170	-16.147617	0.130787	201.257858
+171	-16.624887	0.123793	201.257858
+172	-15.520645	0.138528	201.257858
+173	-15.706913	0.131390	301.886780
+174	-15.080947	0.144812	100.628929
+175	-15.616423	0.139464	100.628929
+176	-16.073536	0.132375	301.886780
+177	-16.248089	0.130498	150.943390
+178	-18.313086	0.102746	201.257858
+179	-21.083529	0.069933	402.515717
+180	-16.901880	0.123739	100.628929
+181	-16.323668	0.126179	402.515717
+182	-29.765675	0.026547	1610.062866
+183	-24.013165	0.055200	452.830200
+184	-24.710926	0.049827	402.515717
+185	-23.014671	0.060627	201.257858
+186	-18.134941	0.105683	201.257858
+187	-16.186039	0.130340	150.943390
+188	-15.505568	0.141263	100.628929
+189	-15.387965	0.140442	201.257858
+190	-14.858138	0.143154	251.572327
+191	-14.430637	0.156703	201.257858
+192	-15.103142	0.141028	251.572327
+193	-16.442604	0.113701	301.886780
+194	-16.126301	0.118092	402.515717
+195	-16.117952	0.118012	352.201263
+196	-14.178178	0.146938	352.201263
+197	-15.610214	0.125443	100.628929
+198	-16.053694	0.115401	301.886780
+199	-15.562781	0.125827	553.459106
+200	-16.221844	0.121533	754.716980
+201	-17.906092	0.095156	754.716980
+202	-18.344509	0.087590	805.031433
+203	-15.871825	0.127907	553.459106
+204	-15.866554	0.120782	503.144653
+205	-14.963674	0.130328	402.515717
+206	-13.067411	0.173872	402.515717
+207	-14.560288	0.153771	352.201263
+208	-15.987949	0.130558	402.515717
+209	-15.664344	0.138816	352.201263
+210	-16.087475	0.132322	352.201263
+211	-15.402349	0.145124	301.886780
+212	-17.674557	0.110038	452.830200
+213	-22.070978	0.068233	201.257858
+214	-30.116148	0.026182	402.515717
+215	-29.733995	0.027411	201.257858
+216	-36.268509	0.012656	201.257858
+217	-33.035488	0.018150	301.886780
+218	-38.513287	0.009755	452.830200
+219	-31.850182	0.017006	2012.578613
+220	-35.088947	0.013087	2515.723389
+221	-22.373222	0.061728	855.345886
+222	-20.986902	0.078317	100.628929
+223	-24.758068	0.039521	603.773560
+224	-20.806986	0.069369	352.201263
+225	-19.758095	0.089400	100.628929
+226	-20.071747	0.090867	100.628929
+227	-21.097900	0.077847	100.628929
+228	-22.244738	0.069222	100.628929
+229	-26.225361	0.043390	100.628929
+230	-27.789040	0.033772	301.886780
+231	-33.076065	0.018563	503.144653
+232	-35.591572	0.013369	704.402527
+233	-35.198380	0.015649	150.943390
+234	-30.001978	0.021501	704.402527
+235	-29.166819	0.026789	3371.069092
+236	-31.899921	0.020559	3471.697998
+237	-30.471010	0.023947	3672.956055
+238	-31.634718	0.021169	3119.496826
+239	-36.616291	0.011809	1710.691772
+240	-22.426504	0.062313	352.201263
+241	-18.266846	0.103643	201.257858
+242	-20.262630	0.075542	503.144653
+243	-21.182327	0.071694	352.201263
+244	-21.799065	0.051435	1006.289307
+245	-21.350014	0.076481	301.886780
+246	-17.851810	0.094987	754.716980
+247	-26.646948	0.040675	603.773560
+248	-30.921635	0.022713	1610.062866
+249	-35.253220	0.014351	3421.383545
+250	-35.368271	0.013729	2767.295654
+251	-32.575031	0.018595	3169.811279
+252	-32.090862	0.020417	1509.433960
+253	-20.518591	0.077592	251.572327
+254	-22.670650	0.060233	150.943390
+255	-20.356556	0.084548	150.943390
+256	-18.901714	0.095350	201.257858
+257	-16.741282	0.118007	251.572327
+258	-18.341597	0.099226	352.201263
+259	-18.067808	0.110253	150.943390
+260	-18.730255	0.094780	201.257858
+261	-17.677872	0.108973	251.572327
+262	-16.007923	0.128352	251.572327
+263	-19.641079	0.088384	100.628929
+264	-20.167982	0.074394	100.628929
+265	-20.147203	0.073445	352.201263
+266	-18.438709	0.093699	301.886780
+267	-19.463474	0.084358	352.201263
+268	-20.789827	0.068014	301.886780
+269	-20.384897	0.071166	352.201263
+270	-19.015514	0.085901	201.257858
+271	-19.650311	0.083508	150.943390
+272	-20.286377	0.079769	100.628929
+273	-17.070444	0.114719	201.257858
+274	-16.829760	0.121233	201.257858
+275	-16.765129	0.121558	251.572327
+276	-16.898779	0.119038	201.257858
+277	-16.493624	0.120948	201.257858
+278	-17.934061	0.096615	352.201263
+279	-17.733622	0.099992	503.144653
+280	-15.871421	0.122075	251.572327
+281	-18.799061	0.089844	251.572327
+282	-15.711399	0.140778	100.628929
+283	-16.927662	0.119769	100.628929
+284	-15.676652	0.139331	100.628929
+285	-16.294470	0.125392	150.943390
+286	-18.061914	0.101395	100.628929
+287	-20.540071	0.075999	301.886780
+288	-23.058762	0.055626	201.257858
+289	-29.749197	0.025871	100.628929
+290	-24.211836	0.041664	1056.603760
+291	-13.469195	0.153636	503.144653
+292	-15.739401	0.130441	100.628929
+293	-18.394249	0.093997	201.257858
+294	-20.310713	0.071016	452.830200
+295	-18.113804	0.101316	201.257858
+296	-16.996376	0.117848	352.201263
+297	-17.202326	0.110909	352.201263
+298	-16.390669	0.127805	201.257858
+299	-16.935375	0.118353	201.257858
+300	-18.138216	0.102281	352.201263
+301	-18.621281	0.096291	301.886780
+302	-19.849731	0.085273	352.201263
+303	-24.237539	0.048150	452.830200
+304	-24.113277	0.054031	301.886780
+305	-23.537958	0.055798	150.943390
+306	-23.838993	0.049068	754.716980
+307	-20.796959	0.078711	201.257858
+308	-18.087378	0.116712	0.000000
+309	-31.835455	0.022600	251.572327
+310	-26.876711	0.041395	100.628929
+311	-25.225515	0.050505	0.000000
+312	-32.311142	0.020272	1459.119507
+313	-32.762024	0.019752	503.144653
+314	-36.440868	0.011743	1660.377319
+315	-33.849899	0.016154	1660.377319
+316	-21.439075	0.065027	553.459106
+317	-14.323977	0.162733	352.201263
+318	-15.052448	0.149735	301.886780
+319	-15.094099	0.144255	402.515717
+320	-14.428218	0.164043	201.257858
+321	-11.505410	0.221799	352.201263
+322	-12.665556	0.187321	603.773560
+323	-14.545357	0.156179	301.886780
+324	-19.246412	0.079773	1006.289307
+325	-20.703032	0.071106	452.830200
+326	-16.015371	0.139678	150.943390
+327	-21.187403	0.072881	754.716980
+328	-23.006083	0.056406	1610.062866
+329	-22.152601	0.060846	1207.547119
+330	-16.261253	0.131690	603.773560
+331	-19.031990	0.089288	2465.408691
+332	-23.412321	0.053558	3471.697998
+333	-21.204771	0.071619	1962.264160
+334	-21.280214	0.069841	2163.521973
+335	-25.143120	0.043862	2062.893066
+336	-23.438293	0.054627	754.716980
+337	-16.225014	0.134554	150.943390
+338	-14.945628	0.152307	301.886780
+339	-14.568056	0.155243	251.572327
+340	-13.590733	0.170707	301.886780
+341	-16.909151	0.116660	251.572327
+342	-27.026867	0.035332	352.201263
+343	-27.639877	0.033528	100.628929
+344	-28.427980	0.030896	301.886780
+345	-29.905449	0.026060	251.572327
+346	-28.626873	0.032439	100.628929
+347	-25.500248	0.038994	201.257858
+348	-21.186266	0.072751	352.201263
+349	-18.896034	0.092066	251.572327
+350	-18.980211	0.093812	150.943390
+351	-17.942904	0.109990	100.628929
+352	-20.148718	0.085610	100.628929
+353	-22.252689	0.067248	100.628929
+354	-22.408169	0.066799	100.628929
+355	-22.543646	0.066114	100.628929
+356	-21.898258	0.071316	100.628929
+357	-21.949276	0.067958	100.628929
+358	-21.159998	0.080264	100.628929
+359	-21.002441	0.082006	100.628929
+360	-19.011034	0.102031	100.628929
+361	-18.656944	0.103716	100.628929
+362	-18.633648	0.105328	100.628929
+363	-19.632648	0.091917	100.628929
+364	-20.434462	0.082509	251.572327
+365	-20.444187	0.071786	150.943390
+366	-21.329559	0.073866	100.628929
+367	-21.585640	0.071760	100.628929
+368	-20.932508	0.076435	100.628929
+369	-21.144705	0.072005	150.943390
+370	-21.406534	0.071273	50.314465
+371	-20.746630	0.076918	100.628929
+372	-21.908531	0.066879	100.628929
+373	-21.470730	0.069974	100.628929
+374	-18.389566	0.100426	301.886780
+375	-18.148336	0.106131	251.572327
+376	-18.859781	0.096504	100.628929
+377	-18.957941	0.095181	201.257858
+378	-19.794308	0.088746	100.628929
+379	-22.247114	0.066900	100.628929
+380	-23.341404	0.056635	201.257858
+381	-22.856588	0.060005	201.257858
+382	-23.279682	0.058757	100.628929
+383	-23.478607	0.057964	100.628929
+384	-23.584484	0.056632	201.257858
+385	-27.132727	0.036980	201.257858
+386	-31.928583	0.020581	452.830200
+387	-33.677395	0.017249	150.943390
+388	-36.846657	0.012020	251.572327
+389	-40.950279	0.007702	301.886780
+390	-30.091942	0.022176	553.459106
+391	-34.799095	0.014384	452.830200
+392	-29.988167	0.021305	654.088074
+393	-23.771790	0.048691	503.144653
+394	-15.954922	0.120558	352.201263
+395	-14.678334	0.156459	301.886780
+396	-14.809533	0.155682	201.257858
+397	-14.402440	0.167845	352.201263
+398	-15.014571	0.150799	301.886780
+399	-13.949195	0.170371	201.257858
+400	-14.903701	0.154943	251.572327
+401	-18.378523	0.108811	100.628929
+402	-18.533514	0.093314	301.886780
+403	-18.174212	0.100438	201.257858
+404	-17.205338	0.111920	201.257858
+405	-16.851236	0.116685	251.572327
+406	-17.164013	0.114973	201.257858
+407	-18.211456	0.095187	301.886780
+408	-17.963762	0.105884	201.257858
+409	-18.026693	0.103446	251.572327
+410	-17.515072	0.114084	201.257858
+411	-20.244598	0.083964	251.572327
+412	-23.578390	0.058408	201.257858
+413	-25.779518	0.039893	301.886780
+414	-19.432161	0.079137	553.459106
+415	-14.300775	0.167234	352.201263
+416	-13.476377	0.173293	452.830200
+417	-12.488393	0.192106	402.515717
+418	-13.450679	0.176288	452.830200
+419	-14.856182	0.149488	503.144653
+420	-14.288151	0.157715	301.886780
+421	-15.588005	0.131631	402.515717
+422	-17.148939	0.112016	352.201263
+423	-23.309650	0.053516	301.886780
+424	-27.695395	0.031965	150.943390
+425	-26.401562	0.035301	754.716980
+426	-21.280117	0.068543	553.459106
+427	-18.546188	0.095682	452.830200
+428	-19.008865	0.092076	503.144653
+429	-19.167301	0.090710	352.201263
+430	-20.057693	0.079700	704.402527
+431	-21.738733	0.066459	100.628929
+432	-21.684193	0.067249	301.886780
+433	-21.528582	0.070245	201.257858
+434	-21.590811	0.069913	201.257858
+435	-22.064596	0.066279	201.257858
+436	-22.184021	0.066532	201.257858
+437	-22.032230	0.068586	201.257858
+438	-24.320827	0.052975	201.257858
+439	-29.649252	0.028235	201.257858
+440	-35.734531	0.013905	301.886780
+441	-25.505873	0.041093	1358.490601
+442	-23.558622	0.054632	452.830200
+443	-17.965548	0.099880	251.572327
+444	-16.663738	0.123573	352.201263
+445	-17.706251	0.111680	352.201263
+446	-19.111801	0.095966	301.886780
+447	-21.358707	0.073450	301.886780
+448	-22.517010	0.064808	301.886780
+449	-21.829773	0.065899	503.144653
+450	-19.770720	0.089096	301.886780
+451	-18.016855	0.106114	402.515717
+452	-18.720457	0.094889	402.515717
+453	-20.134686	0.083654	301.886780
+454	-28.001816	0.033400	100.628929
+455	-30.166605	0.027077	150.943390
+456	-29.243979	0.028031	201.257858
+457	-18.627016	0.085999	452.830200
+458	-18.850435	0.098046	201.257858
+459	-19.703588	0.086125	503.144653
+460	-19.651690	0.089700	201.257858
+461	-20.565943	0.079306	402.515717
+462	-22.551970	0.062753	301.886780
+463	-23.376133	0.057599	201.257858
+464	-26.857853	0.037687	150.943390
+465	-31.316423	0.022958	201.257858
+466	-33.459167	0.017903	402.515717
+467	-35.176880	0.014894	301.886780
+468	-26.068741	0.033500	352.201263
+469	-31.631559	0.020598	855.345886
+470	-44.455692	0.005060	654.088074
+471	-29.302904	0.024252	905.660400
+472	-34.536110	0.015703	603.773560
+473	-22.854769	0.057888	201.257858
+474	-20.672939	0.080563	201.257858
+475	-20.769373	0.076196	301.886780
+476	-20.686052	0.079866	352.201263
+477	-23.276680	0.059851	150.943390
+478	-26.797710	0.037162	150.943390
+479	-33.230927	0.018128	402.515717
+480	-36.037083	0.011595	955.974854
+481	-31.472750	0.018453	3069.182373
+482	-30.457926	0.024162	3270.440186
+483	-24.313349	0.049569	905.660400
+484	-21.525875	0.075811	150.943390
+485	-25.422033	0.044281	1006.289307
+486	-26.890236	0.038324	50.314465
+487	-28.366539	0.037306	0.000000
+488	-34.427700	0.014765	603.773560
+489	-39.489006	0.009115	553.459106
+490	-41.580528	0.006803	1056.603760
+491	-34.831711	0.011156	1308.176147
+492	-32.475567	0.018991	2415.094238
+493	-32.466148	0.019137	1660.377319
+494	-27.333666	0.029280	201.257858
+495	-23.146406	0.059388	301.886780
+496	-23.748714	0.047866	402.515717
+497	-30.301487	0.023202	905.660400
+498	-46.615784	0.003876	855.345886
+499	-48.327686	0.003148	905.660400
+500	-50.013763	0.002576	1710.691772
+501	-36.907494	0.006631	1006.289307
+502	-34.322956	0.011687	1509.433960
+503	-25.832014	0.036134	955.974854
+504	-18.437841	0.093480	352.201263
+505	-15.213268	0.144058	352.201263
+506	-14.737505	0.154603	402.515717
+507	-16.637529	0.119063	301.886780
+508	-18.717621	0.093591	301.886780
+509	-22.867310	0.058887	402.515717
+510	-26.879034	0.038284	805.031433
+511	-30.556475	0.022036	1610.062866
+512	-27.998327	0.033786	1509.433960
+513	-25.999350	0.041045	905.660400
+514	-29.581638	0.023178	905.660400
+515	-33.183472	0.017661	301.886780
+516	-34.299908	0.015941	402.515717
+517	-33.863228	0.017241	201.257858
+518	-24.381796	0.046892	1106.918213
+519	-19.322735	0.085782	503.144653
+520	-17.731304	0.106262	402.515717
+521	-18.109194	0.096404	553.459106
+522	-18.827662	0.092195	352.201263
+523	-18.696438	0.094222	503.144653
+524	-19.537209	0.085983	452.830200
+525	-20.511387	0.077096	301.886780
+526	-20.343058	0.080526	402.515717
+527	-20.794008	0.075923	301.886780
+528	-19.654888	0.086707	251.572327
+529	-18.764273	0.094730	402.515717
+530	-18.464960	0.100263	352.201263
+531	-18.786268	0.097582	402.515717
+532	-18.993319	0.095928	301.886780
+533	-19.156019	0.092412	352.201263
+534	-19.717321	0.084456	603.773560
+535	-18.797449	0.094863	452.830200
+536	-18.239700	0.097987	503.144653
+537	-18.174505	0.100804	301.886780
+538	-17.756533	0.106173	301.886780
+539	-17.381691	0.109719	402.515717
+540	-17.442884	0.106494	452.830200
+541	-16.257021	0.121255	402.515717
+542	-15.546453	0.131082	452.830200
+543	-14.798866	0.143475	301.886780
+544	-13.268666	0.176670	352.201263
+545	-12.856164	0.183198	402.515717
+546	-12.281514	0.199695	352.201263
+547	-11.728018	0.213046	301.886780
+548	-10.552535	0.241071	402.515717
+549	-12.375913	0.194635	503.144653
+550	-13.828592	0.156806	603.773560
+551	-14.203010	0.157900	352.201263
+552	-16.457703	0.122393	503.144653
+553	-21.436836	0.066502	402.515717
+554	-22.152355	0.069676	150.943390
+555	-23.311121	0.059846	150.943390
+556	-29.487530	0.028881	503.144653
+557	-21.450855	0.071467	201.257858
+558	-30.426521	0.025095	1257.861694
+559	-32.905933	0.019567	251.572327
+560	-36.780476	0.011884	855.345886
+561	-31.334160	0.021290	301.886780
+562	-30.540234	0.027418	50.314465
+563	-32.095245	0.023238	0.000000
+564	-36.767250	0.012741	352.201263
+565	-36.361858	0.014463	0.000000
+566	-47.138660	0.003629	1157.232666
+567	-48.832611	0.002887	1559.748413
+568	-46.638206	0.003814	855.345886
+569	-47.059875	0.003405	1157.232666
+570	-49.283947	0.002717	1308.176147
+571	-50.499516	0.002355	2012.578613
+572	-46.203419	0.003908	1106.918213
+573	-49.123203	0.002802	1559.748413
+574	-48.102386	0.003268	1861.635254
+575	-35.141430	0.011382	1056.603760
+576	-44.752243	0.004514	955.974854
+577	-44.276821	0.004622	1006.289307
+578	-47.437798	0.003342	1358.490601
+579	-41.887775	0.006909	201.257858
+580	-46.650005	0.003539	1308.176147
+581	-47.022133	0.003766	452.830200
+582	-45.456955	0.004392	654.088074
+583	-48.078243	0.003175	1056.603760
+584	-32.589211	0.017332	452.830200
+585	-38.503773	0.010675	352.201263
+586	-38.788006	0.009856	150.943390
+587	-39.987232	0.007537	1006.289307
+588	-33.486252	0.009404	1509.433960
+589	-32.182812	0.016701	955.974854
+590	-39.934956	0.008686	553.459106
+591	-42.042171	0.006762	503.144653
+592	-32.068039	0.015329	452.830200
+593	-23.726700	0.058168	150.943390
+594	-24.046700	0.050175	100.628929
+595	-24.571636	0.046734	201.257858
+596	-24.760441	0.046993	402.515717
+597	-24.435627	0.049541	301.886780
+598	-24.861713	0.048858	201.257858
+599	-24.449720	0.051073	150.943390
+600	-24.190647	0.052728	251.572327
+601	-24.432529	0.049913	201.257858
+602	-24.170261	0.051570	201.257858
+603	-24.821844	0.047439	301.886780
+604	-23.968918	0.049627	402.515717
+605	-23.675682	0.052393	201.257858
+606	-24.571777	0.048650	251.572327
+607	-29.704876	0.025819	352.201263
+608	-20.880285	0.071539	100.628929
+609	-22.061035	0.062836	50.314465
+610	-23.740049	0.053898	50.314465
+611	-27.657404	0.033725	100.628929
+612	-22.963413	0.061451	150.943390
+613	-19.753597	0.085567	150.943390
+614	-16.174469	0.121261	150.943390
+615	-11.895445	0.177002	201.257858
+616	-14.525865	0.158031	301.886780
+617	-17.202068	0.107956	402.515717
+618	-17.629885	0.101603	402.515717
+619	-18.978676	0.097879	201.257858
+620	-27.450737	0.038353	100.628929
+621	-30.010906	0.026448	150.943390
+622	-34.752052	0.015906	251.572327
+623	-32.984360	0.018703	201.257858
+624	-36.646412	0.012131	402.515717
+625	-39.575562	0.009162	503.144653
+626	-29.983082	0.017116	855.345886
+627	-18.662352	0.089011	301.886780
+628	-17.159296	0.118277	352.201263
+629	-16.180574	0.131144	352.201263
+630	-15.796196	0.129764	352.201263
+631	-14.931914	0.142219	352.201263
+632	-15.959462	0.124812	301.886780
+633	-16.102535	0.120710	301.886780
+634	-17.065674	0.114464	251.572327
+635	-17.773344	0.105434	201.257858
+636	-19.623646	0.077503	402.515717
+637	-20.334860	0.079713	100.628929
+638	-22.409096	0.062682	150.943390
+639	-24.521282	0.050941	100.628929
+640	-32.391548	0.019481	452.830200
+641	-31.156242	0.020452	1207.547119
+642	-36.550568	0.010551	2616.352295
+643	-36.647499	0.011924	2264.150879
+644	-28.521912	0.030351	1559.748413
+645	-22.334629	0.059260	654.088074
+646	-21.867254	0.076805	0.000000
+647	-28.078613	0.030920	805.031433
+648	-24.678366	0.049273	251.572327
+649	-17.874205	0.103392	251.572327
+650	-16.423008	0.120185	301.886780
+651	-15.520373	0.128825	402.515717
+652	-14.046750	0.168287	402.515717
+653	-15.771058	0.140931	402.515717
+654	-16.895308	0.123150	402.515717
+655	-18.194370	0.103276	352.201263
+656	-16.368814	0.123528	553.459106
+657	-18.685469	0.091878	603.773560
+658	-19.635223	0.084112	503.144653
+659	-19.019611	0.092113	402.515717
+660	-19.795624	0.081773	402.515717
+661	-17.731150	0.107299	452.830200
+662	-15.906761	0.131292	402.515717
+663	-16.310333	0.125334	402.515717
+664	-15.627164	0.134008	402.515717
+665	-15.459581	0.138649	402.515717
+666	-15.848783	0.128977	402.515717
+667	-16.798481	0.117079	301.886780
+668	-17.657150	0.101606	402.515717
+669	-17.228643	0.108168	402.515717
+670	-16.146275	0.124308	301.886780
+671	-14.090113	0.153983	402.515717
+672	-13.229105	0.174251	402.515717
+673	-13.519408	0.172775	301.886780
+674	-13.415196	0.170215	301.886780
+675	-13.365489	0.172333	402.515717
+676	-13.507017	0.172659	301.886780
+677	-14.242803	0.168885	301.886780
+678	-15.300226	0.141750	201.257858
+679	-15.822956	0.134998	201.257858
+680	-14.698373	0.150684	201.257858
+681	-10.935989	0.224110	452.830200
+682	-9.353196	0.275138	402.515717
+683	-10.004232	0.257262	452.830200
+684	-10.047918	0.259755	402.515717
+685	-10.120892	0.255306	402.515717
+686	-10.183460	0.250023	402.515717
+687	-10.970690	0.233108	402.515717
+688	-14.062116	0.159315	402.515717
+689	-18.573509	0.096936	251.572327
+690	-17.729292	0.108556	201.257858
+691	-14.121951	0.145149	301.886780
+692	-17.529873	0.105576	201.257858
+693	-17.208784	0.108937	201.257858
+694	-17.154810	0.112861	201.257858
+695	-16.635580	0.119835	201.257858
+696	-16.857462	0.112792	201.257858
+697	-16.691452	0.110412	251.572327
+698	-16.559210	0.118981	201.257858
+699	-15.735042	0.127937	201.257858
+700	-16.530205	0.115707	251.572327
+701	-13.804837	0.151625	654.088074
+702	-13.380126	0.158136	452.830200
+703	-13.479960	0.169897	301.886780
+704	-13.756140	0.157156	452.830200
+705	-14.048578	0.152393	452.830200
+706	-14.200193	0.153947	402.515717
+707	-14.191706	0.153811	402.515717
+708	-14.362453	0.149357	402.515717
+709	-14.372849	0.149768	301.886780
+710	-14.183469	0.156757	352.201263
+711	-13.820685	0.167770	301.886780
+712	-13.543581	0.172598	301.886780
+713	-12.188148	0.202460	402.515717
+714	-11.915614	0.209222	402.515717
+715	-12.300971	0.201275	452.830200
+716	-12.559635	0.195845	402.515717
+717	-13.372674	0.178959	402.515717
+718	-13.940516	0.166256	402.515717
+719	-14.327781	0.162394	402.515717
+720	-15.116680	0.144758	503.144653
+721	-15.968740	0.128311	452.830200
+722	-16.607687	0.119499	352.201263
+723	-17.752106	0.103797	503.144653
+724	-18.426559	0.095803	301.886780
+725	-18.518015	0.094905	301.886780
+726	-18.198320	0.097532	402.515717
+727	-18.517759	0.093892	402.515717
+728	-18.496449	0.096212	402.515717
+729	-18.439825	0.096247	301.886780
+730	-18.855635	0.092416	301.886780
+731	-20.473045	0.078044	251.572327
+732	-23.183168	0.053324	201.257858
+733	-22.711180	0.057624	301.886780
+734	-22.777689	0.057162	301.886780
+735	-22.441084	0.061007	201.257858
+736	-21.675436	0.062056	251.572327
+737	-20.252794	0.077016	503.144653
+738	-19.885435	0.079865	503.144653
+739	-19.634438	0.084544	301.886780
+740	-20.974964	0.071839	503.144653
+741	-21.083780	0.066680	301.886780
+742	-21.545456	0.064089	301.886780
+743	-22.085857	0.064748	100.628929
+744	-21.890545	0.062765	301.886780
+745	-21.753950	0.063735	251.572327
+746	-22.023703	0.061641	201.257858
+747	-22.639500	0.058372	201.257858
+748	-22.257332	0.058692	402.515717
+749	-22.050369	0.063165	352.201263
+750	-21.786270	0.065098	201.257858
+751	-20.955008	0.070895	150.943390
+752	-20.729807	0.072036	201.257858
+753	-20.413383	0.074606	301.886780
+754	-20.275480	0.075318	251.572327
+755	-21.657455	0.064402	251.572327
+756	-22.524620	0.058935	201.257858
+757	-22.168671	0.063126	251.572327
+758	-23.906345	0.051014	402.515717
+759	-27.835585	0.029517	201.257858
+760	-36.903690	0.010768	603.773560
+761	-40.876266	0.007231	654.088074
+762	-39.545010	0.008862	553.459106
+763	-41.192444	0.007208	452.830200
+764	-42.031540	0.006730	402.515717
+765	-43.934124	0.005132	1257.861694
+766	-44.671093	0.004906	754.716980
+767	-29.948902	0.021227	1106.918213
+768	-28.349062	0.031187	201.257858
+769	-19.511284	0.091767	150.943390
+770	-17.229980	0.111879	301.886780
+771	-16.394775	0.123417	301.886780
+772	-15.541644	0.140425	352.201263
+773	-15.332005	0.142726	402.515717
+774	-14.706595	0.161857	301.886780
+775	-14.333793	0.167213	352.201263
+776	-14.114351	0.167575	301.886780
+777	-19.063688	0.080558	301.886780
+778	-27.730133	0.034976	201.257858
+779	-29.228394	0.027166	150.943390
+780	-31.842653	0.020317	402.515717
+781	-39.785370	0.008108	603.773560
+782	-39.191212	0.009555	402.515717
+783	-41.696815	0.006459	905.660400
+784	-41.668293	0.006651	805.031433
+785	-40.179546	0.006553	1106.918213
+786	-42.988300	0.005850	754.716980
+787	-21.074396	0.066991	503.144653
+788	-32.450741	0.018285	754.716980
+789	-40.769459	0.007537	855.345886
+790	-21.711863	0.060227	603.773560
+791	-21.653421	0.057773	603.773560
+792	-22.711485	0.056674	452.830200
+793	-20.338974	0.071794	704.402527
+794	-18.595779	0.096675	301.886780
+795	-17.756151	0.105163	301.886780
+796	-19.661016	0.082150	402.515717
+797	-22.357857	0.061534	301.886780
+798	-24.086386	0.049031	352.201263
+799	-23.586243	0.051517	402.515717
+800	-22.118027	0.062501	301.886780
+801	-20.266331	0.081053	201.257858
+802	-18.619312	0.101523	201.257858
+803	-18.762028	0.094735	301.886780
+804	-17.722897	0.105905	301.886780
+805	-17.214920	0.102041	301.886780
+806	-18.145975	0.091579	301.886780
+807	-23.373623	0.060495	50.314465
+808	-29.606087	0.024838	402.515717
+809	-26.339331	0.037322	603.773560
+810	-31.506662	0.022701	1660.377319
+811	-39.729607	0.007823	2666.666748
+812	-39.445629	0.008434	2817.610107
+813	-32.537952	0.020705	1559.748413
+814	-31.543886	0.019960	4477.987305
+815	-25.956133	0.040086	4830.188477
+816	-20.969902	0.074080	1257.861694
+817	-14.199781	0.163255	301.886780
+818	-23.204662	0.056706	603.773560
+819	-13.314151	0.193776	100.628929
+820	-14.684435	0.147024	251.572327
+821	-19.182714	0.088508	301.886780
+822	-19.769981	0.086835	100.628929
+823	-25.268402	0.048405	805.031433
+824	-23.487608	0.052225	2566.037842
+825	-25.980581	0.041185	3169.811279
+826	-27.625835	0.033019	2566.037842
+827	-31.645880	0.020709	2968.553467
+828	-32.143646	0.022405	100.628929
+829	-33.752541	0.018229	301.886780
+830	-39.037556	0.009613	402.515717
+831	-38.768215	0.009591	352.201263
+832	-41.386208	0.007092	603.773560
+833	-41.787529	0.006939	352.201263
+834	-43.310230	0.005501	855.345886
+835	-20.883558	0.062067	402.515717
+836	-10.827674	0.265484	50.314465
+837	-14.776031	0.146972	301.886780
+838	-16.740744	0.108710	503.144653
+839	-15.331465	0.135790	452.830200
+840	-15.928479	0.124533	452.830200
+841	-17.398472	0.105631	452.830200
+842	-23.985344	0.054075	251.572327
+843	-26.832254	0.038169	50.314465
+844	-22.547081	0.054396	805.031433
+845	-14.239364	0.142260	452.830200
+846	-14.815000	0.159070	100.628929
+847	-23.657816	0.058577	201.257858
+848	-34.543404	0.015300	1710.691772
+849	-26.513216	0.043239	603.773560
+850	-30.421970	0.025230	4729.559570
+851	-27.549179	0.033188	3018.867920
+852	-29.287094	0.027711	2062.893066
+853	-12.371476	0.185861	251.572327
+854	-9.999931	0.244033	301.886780
+855	-18.419449	0.085990	352.201263
+856	-16.845560	0.113682	301.886780
+857	-14.901775	0.150755	301.886780
+858	-15.540451	0.140508	301.886780
+859	-15.492495	0.144391	301.886780
+860	-16.151222	0.136871	352.201263
+861	-17.967899	0.108933	251.572327
+862	-19.869989	0.079932	352.201263
+863	-21.320181	0.063215	352.201263
+864	-25.475044	0.040346	805.031433
+865	-24.667328	0.041227	150.943390
+866	-26.873701	0.037682	201.257858
+867	-32.673389	0.017025	352.201263
+868	-28.114464	0.032467	201.257858
+869	-28.159981	0.030493	201.257858
+870	-38.553028	0.009691	603.773560
+871	-32.709755	0.020566	100.628929
+872	-33.495815	0.018967	301.886780
+873	-32.875416	0.020368	100.628929
+874	-36.255516	0.013694	201.257858
+875	-40.985683	0.007811	402.515717
+876	-42.509731	0.006462	402.515717
+877	-43.948372	0.005513	301.886780
+878	-43.915306	0.005186	805.031433
+879	-42.263062	0.006181	1157.232666
+880	-46.773251	0.003448	1962.264160
+881	-45.018097	0.004510	1660.377319
+882	-43.604431	0.005294	1358.490601
+883	-42.265816	0.006442	955.974854
+884	-44.202309	0.005014	1207.547119
+885	-45.372181	0.004336	1559.748413
+886	-41.192768	0.006642	1056.603760
+887	-33.104229	0.019149	452.830200
+888	-37.641441	0.010387	805.031433
+889	-47.717911	0.003328	1710.691772
+890	-42.599598	0.006060	754.716980
+891	-44.936207	0.004507	955.974854
+892	-43.776825	0.005161	1408.805054
+893	-45.969322	0.003902	1358.490601
+894	-42.495667	0.006358	955.974854
+895	-42.866417	0.006001	402.515717
+896	-45.250805	0.004095	1559.748413
+897	-41.316097	0.007326	301.886780
+898	-42.049728	0.006526	654.088074
+899	-37.780899	0.010598	855.345886
+900	-42.269577	0.005939	855.345886
+901	-44.263096	0.005091	905.660400
+902	-45.130527	0.004437	855.345886
+903	-49.524837	0.002694	1207.547119
+904	-45.944939	0.003985	805.031433
+905	-46.632656	0.003861	905.660400
+906	-46.301281	0.004186	855.345886
+907	-45.623150	0.004384	603.773560
+908	-48.698929	0.002935	1509.433960
+909	-48.223549	0.003046	1610.062866
+910	-45.650860	0.004333	955.974854
+911	-48.643147	0.002957	1811.320801
+912	-49.339005	0.002749	1559.748413
+913	-46.560436	0.003735	1056.603760
+914	-47.394783	0.003490	1006.289307
+915	-46.477383	0.003721	1308.176147
+916	-47.764824	0.003276	1459.119507
+917	-46.937607	0.003531	1459.119507
+918	-48.141090	0.003127	1559.748413
+919	-48.029427	0.003207	1106.918213
+920	-46.144875	0.004256	754.716980
+921	-45.165958	0.004628	553.459106
+922	-48.822979	0.003001	1157.232666
+923	-48.918922	0.002739	1710.691772
+924	-48.480946	0.003033	1106.918213
+925	-47.394650	0.003535	1459.119507
+926	-48.472443	0.003030	1408.805054
+927	-46.162766	0.003979	955.974854
+928	-46.562920	0.003741	1559.748413
+929	-42.737831	0.006003	955.974854
+930	-46.449551	0.004087	805.031433
+931	-46.096275	0.004143	754.716980
+932	-47.811020	0.003306	1408.805054
+933	-46.777180	0.003649	1157.232666
+934	-48.187668	0.003315	955.974854
+935	-47.471436	0.003424	1207.547119
+936	-45.207245	0.004548	1006.289307
+937	-48.558861	0.003064	1157.232666
+938	-45.556953	0.004513	754.716980
+939	-47.931293	0.003277	1358.490601
+940	-47.846458	0.003181	1459.119507
+941	-46.336018	0.003761	1157.232666
+942	-45.222050	0.004569	805.031433
+943	-46.655216	0.003481	1610.062866
+944	-46.156384	0.004034	1257.861694
+945	-44.962574	0.004590	1207.547119
+946	-49.174114	0.002824	1358.490601
+947	-47.773212	0.003159	1459.119507
+948	-48.182140	0.003222	1408.805054
+949	-47.731010	0.003240	1308.176147
+950	-47.072102	0.003655	1157.232666
+951	-45.758537	0.004131	503.144653
+952	-46.087463	0.004142	704.402527
+953	-49.548351	0.002673	1308.176147
+954	-47.789185	0.003371	855.345886
+955	-44.587421	0.004560	955.974854
+956	-46.948650	0.003548	1308.176147
+957	-46.979568	0.003649	1056.603760
+958	-48.649750	0.002815	1911.949707
+959	-47.868591	0.003389	1559.748413
+960	-45.645744	0.004354	754.716980
+961	-46.828800	0.003851	1056.603760
+962	-47.129601	0.003642	1308.176147
+963	-49.453373	0.002658	1308.176147
+964	-47.747501	0.003242	1207.547119
+965	-46.918365	0.003747	855.345886
+966	-47.922615	0.003284	955.974854
+967	-47.802467	0.003192	1358.490601
+968	-49.724705	0.002460	1811.320801
+969	-49.431984	0.002601	2213.836426
+970	-45.395641	0.004286	855.345886
+971	-43.136005	0.005586	704.402527
+972	-46.198597	0.004268	955.974854
+973	-47.863476	0.003270	1459.119507
+974	-49.260975	0.002556	2113.207520
+975	-49.050655	0.002697	1861.635254
+976	-48.774254	0.002857	1459.119507
+977	-48.524834	0.003040	1056.603760
+978	-47.341423	0.003563	1358.490601
+979	-49.861622	0.002657	1408.805054
+980	-47.701511	0.003283	1308.176147
+981	-47.226795	0.003439	1257.861694
+982	-49.730812	0.002671	1559.748413
+983	-46.944786	0.003738	955.974854
+984	-51.415421	0.002136	2314.465332
+985	-47.746658	0.003223	1308.176147
+986	-46.039043	0.004146	1106.918213
+987	-47.755177	0.003402	1006.289307
+988	-48.811604	0.002777	1610.062866
+989	-48.634003	0.003003	1610.062866
+990	-45.994606	0.003909	1157.232666
+991	-49.632610	0.002683	1408.805054
+992	-45.712948	0.003869	1408.805054
+993	-47.237095	0.003491	1509.433960
+994	-48.045719	0.003152	1106.918213
+995	-48.131741	0.002982	1157.232666
+996	-44.269535	0.005349	553.459106
+997	-48.443417	0.003126	1408.805054
+998	-49.822483	0.002674	1408.805054
+999	-47.522896	0.003624	1006.289307
+1000	-44.390007	0.004350	1157.232666
+1001	-48.765171	0.002947	1459.119507
+1002	-46.640636	0.003776	1056.603760
+1003	-45.886436	0.004261	1056.603760
+1004	-50.484173	0.002435	1861.635254
+1005	-48.509731	0.003085	1106.918213
+1006	-47.891315	0.003214	1257.861694

@@ -19,11 +19,11 @@ float compute_am(const float *x, unsigned int N) {
 }
 
 float compute_zcr(const float *x, unsigned int N, float fm) {
-    float zcr,sum=0;
+    float sum=0;
     for(unsigned int i=1;i<N;i++){
         if(x[i]*x[i-1]<0){
             sum=sum+1;
         }
     }
-    return sum/(2*(N-1));
+    return (fm*sum)/(2*(N-1));
 }

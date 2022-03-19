@@ -57,6 +57,7 @@ Features compute_features(const float *x, int N) {
 VAD_DATA * vad_open(float rate) {
   VAD_DATA *vad_data = malloc(sizeof(VAD_DATA));
   vad_data->state = ST_INIT;
+  vad_data->last_definedstate = ST_INIT;
   vad_data->sampling_rate = rate;
   vad_data->frame_length = rate * FRAME_TIME * 1e-3;
   return vad_data;
@@ -91,22 +92,38 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
 
   Features f = compute_features(x, vad_data->frame_length);
   vad_data->last_feature = f.p; /* save feature, in case you want to show */
+  vad_data->last_definedstate = vad_data->state;
 
   switch (vad_data->state) {
   case ST_INIT:
     vad_data->state = ST_SILENCE;
-    vad_data->p1 = f.p + 10;
-    //nuestro umbral es 10 (algo un poco random)
+    vad_data->p1 = f.p + 5;
+    vad_data->zcr1 = f.zcr;
+    //nuestro umbral es 5 (algo un poco random)
     break;
 
   case ST_SILENCE:
     if (f.p > vad_data->p1)
-      vad_data->state = ST_VOICE;
+      vad_data->state = ST_MAYBEVOICE;
     break;
 
   case ST_VOICE:
     if (f.p < vad_data->p1)
+      vad_data->state = ST_MAYBESILENCE;
+    break;
+
+  case ST_MAYBESILENCE:
+    if ((f.p < vad_data->p1 && f.zcr > vad_data->zcr1) && vad_data->last_definedstate == ST_VOICE )
+      vad_data->state = ST_VOICE;
+    else
       vad_data->state = ST_SILENCE;
+    break;
+
+  case ST_MAYBEVOICE:
+    if ((f.p < vad_data->p1 && f.zcr > vad_data->zcr1) && vad_data->last_definedstate == ST_SILENCE)
+      vad_data->state = ST_SILENCE;
+    else
+      vad_data->state = ST_VOICE;
     break;
 
   case ST_UNDEF:
@@ -116,6 +133,8 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
   if (vad_data->state == ST_SILENCE ||
       vad_data->state == ST_VOICE)
     return vad_data->state;
+  else if (vad_data->state == ST_MAYBEVOICE|| vad_data->state == ST_MAYBESILENCE)
+    vad_data->state = vad(vad_data, x);
   else
     return ST_UNDEF;
 }
