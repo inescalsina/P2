@@ -146,7 +146,8 @@ Ejercicios
 - Evalúe los resultados sobre la base de datos `db.v4` con el script `vad_evaluation.pl` e inserte a 
   continuación las tasas de sensibilidad (*recall*) y precisión para el conjunto de la base de datos (sólo
   el resumen).
-  <img width="503" alt="image" src="https://user-images.githubusercontent.com/101046951/158180017-4254614f-fb21-4204-8724-e8cec9d1ee42.png">
+  ![image](https://user-images.githubusercontent.com/100692200/159131171-62e8bb66-a9e7-40a7-9fc5-288d8110acd5.png)
+
 
 
 ### Trabajos de ampliación
@@ -161,6 +162,8 @@ Ejercicios
 
 - Si ha usado `docopt_c` para realizar la gestión de las opciones y argumentos del programa `vad`, inserte
   una captura de pantalla en la que se vea el mensaje de ayuda del programa.
+  ![image](https://user-images.githubusercontent.com/100692200/159131256-1c176441-2b45-46cc-9dde-301570823006.png)
+
 
 
 ### Contribuciones adicionales y/o comentarios acerca de la práctica
@@ -170,6 +173,9 @@ Ejercicios
 
 - Si lo desea, puede realizar también algún comentario acerca de la realización de la práctica que
   considere de interés de cara a su evaluación.
+  
+  Para mejorar el funcionamiento del programa y que detecte el silencio y la voz con mayor precisión hemos implementado 2 estados más, MAYBEVOICE y MAYBESILENCE. Con esto conseguimos que para cambiar de silencio a voz o de voz a silencio no haya que superar simplemnte un umbral, si no que para detectar el cambio se tenga que permanecer un número de tramas superando este umbral. 
+  Al hacer esto hemos conseguido que los sonidos sordos sean detectados como voz, y que algunos ruidos de fondo o ruidos generados por la boca sean detectados como silencio.
 
 
 ### Antes de entregar la práctica
