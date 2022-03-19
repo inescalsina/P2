@@ -173,6 +173,8 @@ Ejercicios
 
 - Si lo desea, puede realizar también algún comentario acerca de la realización de la práctica que
   considere de interés de cara a su evaluación.
+  Para mejorar el funcionamiento del programa y que detecte el silencio y la voz con mayor precisión hemos implementado 2 estados más, MAYBEVOICE y MAYBESILENCE. Con esto conseguimos que para cambiar de silencio a voz o de voz a silencio no haya que superar simplemnte un umbral, si no que para detectar el cambio se tenga que permanecer un número de tramas superando este umbral. 
+  Al hacer esto hemos conseguido que los sonidos sordos sean detectados como voz, y que algunos ruidos de fondo o ruidos generados por la boca sean detectados como silencio.
 
 
 ### Antes de entregar la práctica
