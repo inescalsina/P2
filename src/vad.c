@@ -6,7 +6,7 @@
 #include "vad.h"
 
 const float FRAME_TIME = 10.0F; /* in ms. */
-
+unsigned int count = 0;
 /* 
  * As the output state is only ST_VOICE, ST_SILENCE, or ST_UNDEF,
  * only this labels are needed. You need to add all labels, in case
@@ -14,7 +14,7 @@ const float FRAME_TIME = 10.0F; /* in ms. */
  */
 
 const char *state_str[] = {
-  "UNDEF", "S", "V", "INIT"
+  "UNDEF", "S", "V", "INIT","MS","MV"
 };
 
 const char *state2str(VAD_STATE st) {
@@ -54,12 +54,12 @@ Features compute_features(const float *x, int N) {
  * TODO: Init the values of vad_data
  */
 
-VAD_DATA * vad_open(float rate) {
+VAD_DATA * vad_open(float rate, float alpha1) {
   VAD_DATA *vad_data = malloc(sizeof(VAD_DATA));
   vad_data->state = ST_INIT;
-  vad_data->last_definedstate = ST_INIT;
   vad_data->sampling_rate = rate;
   vad_data->frame_length = rate * FRAME_TIME * 1e-3;
+  vad_data->alpha1 = alpha1;
   return vad_data;
 }
 
@@ -92,14 +92,11 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
 
   Features f = compute_features(x, vad_data->frame_length);
   vad_data->last_feature = f.p; /* save feature, in case you want to show */
-  vad_data->last_definedstate = vad_data->state;
 
   switch (vad_data->state) {
   case ST_INIT:
     vad_data->state = ST_SILENCE;
-    vad_data->p1 = f.p + 5;
-    vad_data->zcr1 = f.zcr;
-    //nuestro umbral es 5 (algo un poco random)
+    vad_data->p1 = f.p + vad_data->alpha1;
     break;
 
   case ST_SILENCE:
@@ -112,18 +109,34 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
       vad_data->state = ST_MAYBESILENCE;
     break;
 
-  case ST_MAYBESILENCE:
-    if ((f.p < vad_data->p1 && f.zcr > vad_data->zcr1) && vad_data->last_definedstate == ST_VOICE )
+  case ST_MAYBEVOICE:
+  if(f.p > vad_data->p1 && count > 5){
       vad_data->state = ST_VOICE;
-    else
+      count = 0;
+    }
+    else if(f.p > vad_data->p1 && count <= 5){
+      vad_data->state = ST_MAYBEVOICE;
+      count++;
+    }
+    else{
       vad_data->state = ST_SILENCE;
+      count = 0;
+    }
     break;
 
-  case ST_MAYBEVOICE:
-    if ((f.p < vad_data->p1 && f.zcr > vad_data->zcr1) && vad_data->last_definedstate == ST_SILENCE)
+  case ST_MAYBESILENCE:
+    if(f.p < vad_data->p1 && count <= 5){
+      vad_data->state = ST_MAYBESILENCE;
+      count++;
+    }
+    else if(f.p < vad_data->p1 && count > 5){
       vad_data->state = ST_SILENCE;
-    else
+      count = 0;
+    }
+    else {
       vad_data->state = ST_VOICE;
+      count = 0;
+    }
     break;
 
   case ST_UNDEF:
@@ -131,10 +144,8 @@ VAD_STATE vad(VAD_DATA *vad_data, float *x) {
   }
 
   if (vad_data->state == ST_SILENCE ||
-      vad_data->state == ST_VOICE)
+      vad_data->state == ST_VOICE || vad_data->state == ST_MAYBEVOICE || vad_data->state == ST_MAYBESILENCE)
     return vad_data->state;
-  else if (vad_data->state == ST_MAYBEVOICE|| vad_data->state == ST_MAYBESILENCE)
-    vad_data->state = vad(vad_data, x);
   else
     return ST_UNDEF;
 }
